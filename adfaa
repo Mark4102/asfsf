@@ -1,0 +1,1473 @@
+Log uploaded on Wednesday, November 28, 2018, 6:32:17 PM
+Loaded mods:
+Core: (no assemblies)
+HugsLib[6.0.1]: 0Harmony(1.2.0.1), HugsLib(1.0.0.0)
+JecsTools: 0Harmony(1.0.9.1), 0JecsTools(1.0.8.0), AbilityUser(1.18.0.0), AbilityUserAI(1.18.0.0), CompActivatableEffect(1.18.0.0), CompAnimated(1.18.0.0), CompBalloon(1.18.0.0), CompDeflector(1.18.0.0), CompDelayedSpawner(1.18.0.0), CompExtraSounds(1.18.0.0), CompInstalledPart(1.18.0.0), CompLumbering(1.18.0.0), CompOverlays(1.18.0.0), CompOversizedWeapon(1.18.0.0), CompSlotLoadable(1.18.0.0), CompToggleDef(1.18.0.0), CompVehicle(1.17.0.1), PawnShields(1.0.0.0)
+RuntimeGC: RuntimeGC(20.0.15.1)
+Giddy-up! Core[1.1.0]: GiddyUpCore(0.0.0.0)
+Humanoid Alien Races 2.0: 0Harmony(1.2.0.2), AlienRace(1.0.0.0)
+USCM - Core 1.0: FlameWeapons(0.6.0.0)
+Rimsenal: (no assemblies)
+Rimsenal - Enhanced Vanilla Pack: (no assemblies)
+Rimsenal - Federation: (no assemblies)
+Rimsenal - Feral: (no assemblies)
+Rimsenal - Security pack: (no assemblies)
+Rimsenal - Storyteller pack: (no assemblies)
+Rimatomics: 0Harmony(1.2.0.1), Rimatomics(1.6.6880.29753)
+Simply More Bridges: 0Harmony(1.1.0.0), SimplyMoreBridges(1.0.0.0)
+GloomyFurniture: Gloomylynx(1.0.0.0)
+Allow Tool: $HugsLibChecker(0.5.0.0), AllowTool(3.6.0.0)
+[1.0] Android tiers: 0Harmony(1.2.0.1), AndroidsAtlasTiers(1.0.0.0)
+Bad People: 0Harmony(1.0.9.1), Bad People(1.0.0.0)
+The Birds and the Bees: 0Harmony(1.2.0.1), Fluffy_BirdsAndBees(2.0.0.0)
+Blueprints: Blueprints(2.1.37.0)
+Buildable Terrain v1: (no assemblies)
+Rim of Madness - Arachnophobia: 0Harmony(1.0.9.1), Arachnophobia(1.18.0.0)
+Cheaper Components: (no assemblies)
+Climate Cycle++: ClimateCycle++(0.1.1.2)
+Colony Manager: 0Harmony(1.2.0.1), Fluffy_ColonyManager(4.1.415.0)
+Color Coded Mood Bar: 0Harmony(1.2.0.1), ColoredMoodBar(1.0.0.0)
+[TWC]Cupro's Alloys 1.0: CuprosAlloys(0.19.0.1)
+DeepRim: 0Harmony(1.2.0.1), DeepRim(0.0.0.0)
+EdB Prepare Carefully: 0Harmony(1.1.0.0), EdBPrepareCarefully(1.0.10.0)
+Expanded Prosthetics and Organ Engineering: (no assemblies)
+Expanded Roofing: 0Harmony(1.2.0.1), 1SettingsHelper(0.19.1.36477), ExpandedRoofing(0.19.2.3801)
+[KV] Faction Control - 1.0: 0Harmony(1.2.0.1), FactionControl(1.0.6885.42591)
+Food Alert: 0Harmony(1.0.9.1), FoodAlert(0.1.1.0)
+[1.0] FuckFriendlyFire: 0Harmony(1.0.9.1), FuckFriendlyFire(1.0.0.0)
+Furnace: (no assemblies)
+Genetic Rim: 0Harmony(1.2.0.1), AnimalRangeUnlocker(1.0.6862.17033), DraftingPatcher(1.0.0.0), ExplosionTypes(1.0.0.0), ModCheck(1.8.0.0), NewAnimalSubproducts(1.0.0.0), NewHatcher(1.0.0.0), NewMachinery(1.0.0.0)
+Dinosauria: (no assemblies)
+GeneticRim Dinosauria Patch: (no assemblies)
+gloomy_face: (no assemblies)
+gloomy_hair: (no assemblies)
+Prisoner Harvesting: (no assemblies)
+Heat Map: $HugsLibChecker(0.5.0.0), HeatMap(1.0.1.0)
+HolyWasher: HolyWasher(1.0.0.0)
+Industrial Age - Objects and Furniture: 0Harmony(1.0.9.1), IndustrialAgeObjects(1.1.0.7)
+Numbers: RWNumbers(1.0.0.3)
+Labels on Floor: $HugsLibChecker(0.5.0.0), LabelsOnFloor(1.0.1.0)
+Locks: 0Harmony(1.0.9.1), Locks(1.0.0.0)
+Clear The Stockpiles: ClearTheStockpiles(1.0.6870.24064)
+Medical Tab: 0Harmony(1.2.0.1), DynamicPawnTable(1.0.0.0), MedicalInfo(2.1.64.0)
+Moody: Moody(2.4.0.0)
+More Faction Interaction: 0Harmony(1.2.0.1), MoreFactionInteraction(0.1.0.8)
+More Furniture [1.0]: (no assemblies)
+More Mechanoids: MoreMechanoids(1.0.1.0)
+More Trade Ships: (no assemblies)
+P-Music: (no assemblies)
+Pick Up And Haul: 0Harmony(1.2.0.1), PickUpAndHaul(0.1.0.4)
+Psychology: $HugsLibChecker(0.5.0.0), Psychology(18.10.30.0)
+QualityBuilder: 0Harmony(1.1.0.0), QualityBuilder(1.0.6.0)
+Quarry 1.0: Quarry(0.19.0.0)
+Realistic Darkness 1.0: (no assemblies)
+Real Ruins: 0Harmony(1.2.0.1), RealRuins(1.0.0.0)
+RenameColony: 0Harmony(1.2.0.1), RenameColony(1.0.0.0)
+Replace Stuff: 0Harmony(1.2.0.1), Replace_Stuff(1.0.0.0)
+ResearchPal: 0Harmony(1.2.0.1), ResearchTree(1.0.0.0)
+[RF] Fishing [1.0]: Rainbeau's Fishing(1.0.6867.22473)
+[RF] Rumor Has It.... [1.0]: Rainbeau's Rumor Has It(1.0.6879.35940)
+[RF] Scenarios [1.0]: 0Harmony(1.2.0.1), Rainbeau's Scenarios(1.0.6877.35262)
+[RF] Tribal Raiders [1.0]: 0Harmony(1.2.0.1), Rainbeau's Tribal Raiders(1.0.6854.32958)
+Rim of Madness - Werewolves: 0Harmony(1.0.9.1), Werewolf(1.18.0.0)
+Rim of Madness - Vampires: 0Harmony(1.0.9.1), Vampire(1.18.0.0)
+[KV] RimFridge - 1.0: 0Harmony(1.2.0.1), RimFridge(1.0.0.0)
+Harvest Organs Post Mortem - 4.1 [1.0]: Autopsy(4.1.0.0)
+MendAndRecycle: MendAndRecycle(1.0.6867.22518)
+RimWriter - Books, Scrolls, Tablets, and Libraries: 0Harmony(1.0.9.1), RimWriter(1.1.0.7)
+RT Fuse: 0Harmony(1.2.0.1), RT_Fuse(1.0.0.0)
+RunAndGun: RunAndGun(1.18.3.0)
+[sd] advanced powergeneration: sd_adv_powergen(1.0.6869.37639)
+Save Our Ship (Reloaded): $HugsLibChecker(0.5.0.0), ShipsHaveInsides(1.0.0.0)
+Simple sidearms[1.3.1]: SimpleSidearms(1.0.0.0)
+Sparkling Worlds - Full Mod: SparklingWorldsBlueMoon(1.0.0.0), SparklingWorldsCore(1.0.0.0), SparklingWorldsEvents(1.0.0.0), SparklingWorldsMAD(1.0.0.0), SparklingWorldsMechanites(1.0.0.0)
+[T] ExpandedCloth: (no assemblies)
+[T] ExpandedCrops: (no assemblies)
+[T] MiscStuff: ConditionRed(1.0.0.0)
+[T] MoreBedsVanilla: (no assemblies)
+[T] MoreFloors: (no assemblies)
+[T] RawCropThoughts: (no assemblies)
+A RimWorld of Magic: 0Harmony(1.2.0.1), TorannMagic(2.2.5.3)
+USCM - Colonial Marines Corps Faction 1.0: (no assemblies)
+USCM - Turret 1.0: (no assemblies)
+USCM - Xenomorphs Faction 1.0: (no assemblies)
+Where is my weapon?: 0Harmony(1.1.0.0), WhereIsMyWeapon(1.0.0.0)
+Work Tab: 0Harmony(1.2.0.1), WorkTab(3.2.179.0)
+[1.0] Sandy's Detailed RPG Inventory: Sandy's Detailed RPG Inventory(1.0.6887.40235)
+Fences And Floors: (no assemblies)
+Hardworking animals B19: (no assemblies)
+MinifyEverything: 0Harmony(1.0.9.1), MinifyEverything(1.0.6819.23400)
+PowerSwitch: PowerSwitch(0.18.1.0)
+Wall Light: $HugsLibChecker(0.5.0.0), WallLight(1.0.0.0)
+Interaction Bubbles: 0Harmony(1.2.0.1), Bubbles(1.4.0.0)
+GlitterWorld Prime [1.0][1.0.1.1]: Glitterworld Prime(1.0.1.1), RestSharp(105.2.4.0)
+[KV] Path Avoid - B19: 0Harmony(1.2.0.1), PathAvoid(1.0.0.0)
+OgreStack: OgreStack(1.0.0.0)
+Tilled Soil: (no assemblies)
+Quantum Cooling: (no assemblies)
+Rimworld Search Agency: 0Harmony(1.2.0.1), RSA.Core(0.1.0.0), RSA(2.3.0.0), _harmonycheck(1.0.0.0)
+BioReactor: 0Harmony(1.2.0.1), BioReactor(1.0.0.0)
+[XND] Targeting Modes: 0Harmony(1.2.0.1), 1SettingsHelper(0.19.0.28153), TargetingModes(1.1.2.0)
+[KV] Trading Spot - 1.0: TradingSpot(1.0.0.0)
+SF Grim Reality 1.0: (no assemblies)
+Project RimFactory - Core: 0Harmony(1.1.0.0), ProjectRimFactory(0.2.0.0)
+Project RimFactory - Drones: (no assemblies)
+Project RimFactory - Insanity: (no assemblies)
+Project RimFactory - Storage: (no assemblies)
+Mechanoids Extraordinaire: (no assemblies)
+Megafauna: 0Harmony(1.2.0.1), ModCheck(1.8.0.0)
+Giddy-up! Battle Mounts[1.0.2]: Battlemounts(0.0.0.0)
+Questionable Ethics: 0Harmony(1.2.0.2), QEthics(1.0.0.0)
+Thrumbo Extension: (no assemblies)
+Sometimes Raids Go Wrong: SometimesRaidsGoWrong(1.0.6900.26278)
+Misc. Robots: AIRobot(1.0.0.0)
+Misc. Robots++: (no assemblies)
+RIMMSqol: 0Harmony(1.2.0.1), Priority Queue(4.1.1.0), RIMMSqol(1.0.6867.41613)
+ED-LaserDrill-1.0_Update: (no assemblies)
+Hospitality: $HugsLibChecker(0.5.0.0), Hospitality(1.0.5.0)
+Alpha Animals: 0Harmony(1.2.0.1), AlphaAnimalRangeUnlocker(1.0.6862.18063), AlphaBehavioursAndEvents(1.0.0.0), AnimalVariations(1.0.6818.33624), ModCheck(1.8.0.0), NewAlphaAnimalSubproducts(1.0.0.0)
+Greenworld: (no assemblies)
+Incidents: (no assemblies)
+Nature's Pretty Sweet: 0Harmony(1.0.9.1), TKKN_NPS(1.0.0.0)
+
+Active Harmony patches:
+<ConfigErrors>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<ConfigErrors>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<ConfigErrors>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<DoDebugOptions>c__AnonStoreyA.<>m__0: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<DoDebugOptions>c__AnonStoreyA.<>m__1: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<DoDebugOptions>c__AnonStoreyA.<>m__2: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<DoDebugOptions>c__AnonStoreyA.<>m__8: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<DoDebugOptions>c__AnonStoreyA.<>m__9: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<DoDebugOptions>c__AnonStoreyA.<>m__E: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<EnsureRequiredEnemies>c__AnonStorey1.<>m__1: post: AlienRace.HarmonyPatches.EnsureRequiredEnemiesPostfix
+<FlavorfulCombatTest>c__AnonStorey5.<>m__0: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<GetNotMissingParts>c__Iterator5.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<GetPartsToApplyOn>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<GetPartsToApplyOn>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<GetPartsToApplyOn>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<GetPartsToApplyOn>c__Iterator0.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+<JumpToCarryToNextContainerIfPossible>c__AnonStoreyD.<>m__0: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+<MakeNewToils>c__Iterator0.<>m__4: PRE: Fluffy_BirdsAndBees.JobDriver_Lovin_MakeNewToils_FinishAction.Prefix
+<Prosthetics>c__AnonStorey24.<>m__6: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+AbilityAIDef.CanPawnUseThisAbility: PRE: TorannMagic.HarmonyPatches+CanPawnUseThisAbility_Patch.Prefix, TorannMagic.HarmonyPatches+CanPawnUseThisAbility_Patch.Prefix
+AbilityDef.GetJob: PRE: TorannMagic.HarmonyPatches+AbilityDef_Patch.Prefix, TorannMagic.HarmonyPatches+AbilityDef_Patch.Prefix
+AbilityWorker.CanPawnUseThisAbility: PRE: TorannMagic.HarmonyPatches+AbilityWorker_CanPawnUseThisAbility_Patch.Prefix, TorannMagic.HarmonyPatches+AbilityWorker_CanPawnUseThisAbility_Patch.Prefix
+AbilityWorker.TargetAbilityFor: PRE: TorannMagic.HarmonyPatches+AbilityWorker_TargetAbilityFor_Patch.Prefix, TorannMagic.HarmonyPatches+AbilityWorker_TargetAbilityFor_Patch.Prefix
+AddictionUtility.CanBingeOnNow: PRE: Hospitality.Harmony.AddictionUtility_Patch+CanBingeOnNow.Prefix post: AlienRace.HarmonyPatches.CanBingeNowPostfix
+AgeInjuryUtility.GenerateRandomOldAgeInjuries: PRE: AlienRace.HarmonyPatches.GenerateRandomOldAgeInjuriesPrefix, Vampire.HarmonyPatches.Vamp_GenerateRandomOldAgeInjuries
+AgeInjuryUtility.RandomHediffsToGainOnBirthday: post: AlienRace.HarmonyPatches.RandomHediffsToGainOnBirthdayPostfix
+Alert_LifeThreateningHediff.GetExplanation: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Alert_NeedDoctor.get_Patients: PRE: Vampire.HarmonyPatches.get_Patients_Vamp
+Alert_NeedWarmClothes.GetReport: post: Vampire.HarmonyPatches.Vamp_DontNeedWarmClothesReports
+ApparelProperties.GetInterferingBodyPartGroups: TRANS: AlienRace.HarmonyPatches.GetInterferingBodyPartGroupsTranspiler
+ApparelUtility.CanWearTogether: post: JecsTools.HarmonyPatches.Post_CanWearTogether
+ArmorUtility.ApplyArmor: PRE: JecsTools.HarmonyPatches.ApplyProperDamage
+ArmorUtility.GetPostArmorDamage: post: JecsTools.HarmonyPatches.Post_GetPostArmorDamage
+AttackTargetFinder.BestAttackTarget: post: Vampire.HarmonyPatches.BestAttackTarget
+AttackTargetFinder.CanReach: PRE: TorannMagic.HarmonyPatches+AttackTargetFinder_CanReach_Patch.Prefix, TorannMagic.HarmonyPatches+AttackTargetFinder_CanReach_Patch.Prefix
+AttackTargetFinder.CanSee: PRE: TorannMagic.HarmonyPatches+AttackTargetFinder_CanSee_Patch.Prefix, TorannMagic.HarmonyPatches+AttackTargetFinder_CanSee_Patch.Prefix
+AutoUndrafter.AutoUndraftTick: post: SimpleSidearms.intercepts.AutoUndrafter_AutoUndraftTick_Postfix.AutoUndraftTick
+BackCompatibility.BillMedicalResolvingCrossRefs: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BackCompatibility.HediffResolvingCrossRefs: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_DamageTaken.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_ExplosionImpact.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_MeleeCombat.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_RangedImpact.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Bill.PawnAllowedToStartAnew: post: AlienRace.HarmonyPatches.PawnAllowedToStartAnewPostfix
+Bill_Medical.Notify_DoBillStarted: PRE: Vampire.HarmonyPatches.Notify_DoBillStarted_Debug
+Bill_Medical.set_Part: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler, AlienRace.HarmonyPatches.BodyReferenceTranspiler, AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BiomeDef.CommonalityOfDisease: PRE: TKKN_NPS.PatchCommonalityOfDisease.Prefix
+BiomeWorker_AridShrubland.GetScore: post: TKKN_NPS.PatchGetScoreArid.Postfix
+BiomeWorker_TemperateForest.GetScore: post: TKKN_NPS.PatchGetScoreTempForest.Postfix
+Blueprint.TryReplaceWithSolidThing: TRANS: Replace_Stuff.OverMineable.BlueprintToFrameUnderRock.Transpiler
+Blueprint_Build.get_WorkTotal: post: Replace_Stuff.NewThing.NewThingDeconstructWork_Blueprint.Postfix
+Blueprint_Install.TryReplaceWithSolidThing: post: MinifyEverything.MinifyEverything.AfterInstall
+Building.Draw: PRE: Vampire.HarmonyPatches.Draw_VampBed
+Building_Bed.GetGizmos: post: Hospitality.Harmony.Building_Bed_Patch+GetGizmos.Postfix
+Building_Bed.get_AssigningCandidates: post: AlienRace.HarmonyPatches.AssigningCandidatesPostfix
+Building_Bed.set_ForPrisoners: post: Hospitality.Harmony.Building_Bed_Patch+ForPrisoners.Postfix
+Building_Bed.set_Medical: post: LabelsOnFloor.Building_Bed_Medical_Patch.ChangeMedicalStatus
+Building_Casket.Accepts: PRE: Vampire.HarmonyPatches.Accepts_VampBed
+Building_Cooler.TickRare: TRANS: Replace_Stuff.CoolersOverWalls.WideVentLocationTemp.Transpiler
+Building_CryptosleepCasket.EjectContents: PRE: ShipsHaveInsides.Mod.RecoverPawnAfterExit.Prefix post: ShipsHaveInsides.Mod.RecoverPawnAfterExit.PostFix
+Building_Door.DeSpawn: post: Locks.HarmonyPatches.Patch_RemoveLockData.Postfix
+Building_Door.ExposeData: post: Locks.HarmonyPatches.Patch_AddLockDataToSave.Postfix
+Building_Door.GetGizmos: TRANS: Locks.HarmonyPatches.Patch_AddLockGizmoToDoors.Transpiler
+Building_Door.PawnCanOpen: PRE: Hospitality.Harmony.Building_Door_Patch+PawnCanOpen.Prefix post: Werewolf.HarmonyPatches.WerewolfCantOpen TRANS: Locks.HarmonyPatches.Patch_InjectLockCheck.Transpiler
+Building_Door.get_BlockedOpenMomentary: post: GiddyUpCore.Harmony.Building_Door_get_BlockedOpenMomentary.Postfix
+Building_Grave.GetGizmos: post: Vampire.HarmonyPatches.Vamp_TheyNeverDie
+Building_Grave.Notify_CorpseBuried: post: Psychology.Harmony.Building_Grave_NotifyCorpseBuried_Patch.FillGraveThought, Psychology.Harmony.Building_Grave_NotifyCorpseBuriedFuneralHook.PlanFuneral
+Building_Grave.get_Graphic: PRE: Vampire.HarmonyPatches.get_Graphic_VampBed
+Building_TurretGun.TryStartShootSomething: PRE: Replace_Stuff.Replace.DisableTurret.Prefix
+Building_WorkTable.UsableForBillsAfterFueling: post: Replace_Stuff.Replace.DisableWorkbench.Postfix
+Bullet.Impact: PRE: FuckFriendlyFire.FuckFriendlyFireBullet_Impact.Prefix
+Caravan.AddPawn: PRE: CompVehicle.HarmonyCompVehicle.AddVehiclePawnsToCaravan
+Caravan.GetGizmos: post: JecsTools.HarmonyCaravanPatches.GetGizmos_Jobs
+Caravan.GetInspectString: post: JecsTools.HarmonyCaravanPatches.GetInspectString_Jobs, CompVehicle.HarmonyCompVehicle.GetInspectString_PostFix
+Caravan.get_NightResting: PRE: TorannMagic.HarmonyPatches.Get_NightResting_Undead
+CaravanEnterMapUtility.Enter: PRE: CompVehicle.HarmonyCompVehicle.Enter_PreFix
+CaravanExitMapUtility.CanExitMapAndJoinOrCreateCaravanNow: post: CompVehicle.HarmonyCompVehicle.CanExit_PostFix
+CaravanTicksPerMoveUtility.GetTicksPerMove: post: CompVehicle.HarmonyCompVehicle.GetTicksPerMove_PostFix
+CaravanUIUtility.AddPawnsSections: post: CompVehicle.HarmonyCompVehicle.AddPawnsSections_PostFix
+Caravan_NeedsTracker.TrySatisfyPawnNeeds: PRE: CompVehicle.HarmonyCompVehicle.TrySatisfyFuelNeeds
+CastPositionFinder.TryFindCastPosition: PRE: TorannMagic.HarmonyPatches+TryFindCastPosition_Base_Patch.Prefix, TorannMagic.HarmonyPatches+TryFindCastPosition_Base_Patch.Prefix
+CharacterCardUtility.DrawCharacterCard: post: Vampire.HarmonyPatches.Vamp_DrawCharacterCard TRANS: Psychology.Harmony.CharacterCardUtility_ButtonPatch.AddPsycheDisplay
+ChildRelationUtility.ChanceOfBecomingChildOf: post: Psychology.Harmony.ChildRelationUtility_ChanceOfBecomingChildOf_Patch.KinseyFactor
+ColonistBarColonistDrawer.DrawColonist: PRE: MoodBarPatch.MoodPatch.Prefix
+ColonistBarColonistDrawer.DrawIcons: PRE: TorannMagic.HarmonyPatches+ColonistBarColonistDrawer_Patch.Prefix, TorannMagic.HarmonyPatches+ColonistBarColonistDrawer_Patch.Prefix
+ColonistSaver.SaveToFile: TRANS: Psychology.Harmony.Optional.PresetSaverPatch.SavePawnRef
+Command.GizmoOnGUI: post: AllowTool.Patches.Command_GizmoOnGUI_Patch.InterceptInteraction TRANS: AllowTool.Patches.Command_GizmoOnGUI_Patch.DrawRightClickIcon
+Command_PawnAbility.GizmoOnGUI: PRE: TorannMagic.HarmonyPatches+GizmoOnGUI_Prefix_Patch.Prefix, TorannMagic.HarmonyPatches+GizmoOnGUI_Prefix_Patch.Prefix
+CompDrug.PostIngested: post: AlienRace.HarmonyPatches.PostIngestedPostfix
+CompEggLayer.ProduceEgg: post: Arachnophobia.HarmonyPatches.ProduceEgg_PostFix
+CompMilkable.CompInspectStringExtra: post: TorannMagic.HarmonyPatches+CompMilkable_Patch.Postfix, TorannMagic.HarmonyPatches+CompMilkable_Patch.Postfix
+CompPowerPlantSolar.get_RoofedPowerOutputFactor: TRANS: ExpandedRoofing.HarmonyPatches.TransparentRoofOutputFactorFix
+CompQuality.PostPostGeneratedForTrader: PRE: MoreFactionInteraction.HarmonyPatches.CompQuality_TradeQualityIncreasePreFix
+CompSpawnerMechanoidsOnDamaged.<TrySpawnMechanoids>m__1: post: CompVehicle.HarmonyCompVehicle.MechanoidsFixer
+CompSpawnerMechanoidsOnDamaged.TrySpawnMechanoids: TRANS: TargetingModes.HarmonyPatches.Transpile_TrySpawnMechanoids
+CompTargetEffect_PsychicShock.DoEffectOn: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+CompTemperatureRuinable.DoTicks: PRE: RimFridge.Patch_CompTemperatureRuinable_DoTicks.Prefix
+CompUseEffect_FixWorstHealthCondition.get_HandCoverageAbsWithChildren: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler, AlienRace.HarmonyPatches.BodyReferenceTranspiler
+CompressibilityDeciderUtility.IsSaveCompressible: post: ProjectRimFactory.Common.HarmonyPatches.SaveCompressiblePatch.Postfix
+Corpse.ButcherProducts: PRE: AlienRace.HarmonyPatches.ButcherProductsPrefix
+Corpse.GetInspectString: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Corpse.IngestedCalculateAmounts: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker.ExplosionStart: PRE: TorannMagic.HarmonyPatches+ExplosionNoShaker_Patch.Prefix, TorannMagic.HarmonyPatches+ExplosionNoShaker_Patch.Prefix
+DamageWorker_AddInjury.ApplySmallPawnDamagePropagation: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_AddInjury.ChooseHitPart: post: TargetingModes.HarmonyPatches.Postfix_ChooseHitPart
+DamageWorker_AddInjury.FinalizeAndAddInjury: PRE: Werewolf.HarmonyPatches.WerewolfDmgFixFinalizeAndAddInjury post: CompVehicle.HarmonyCompVehicle.TryInjureVehicleOccupants
+DamageWorker_Bite.ChooseHitPart: post: TargetingModes.HarmonyPatches.Postfix_ChooseHitPart_External
+DamageWorker_Blunt.<StunChances>m__1: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_Blunt.<StunChances>m__6: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_Blunt.ApplySpecialEffectsToPart: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_Blunt.ChooseHitPart: post: TargetingModes.HarmonyPatches.Postfix_ChooseHitPart_External
+DamageWorker_Cut.ChooseHitPart: post: TargetingModes.HarmonyPatches.Postfix_ChooseHitPart_External
+DamageWorker_Scratch.ChooseHitPart: post: TargetingModes.HarmonyPatches.Postfix_ChooseHitPart_External
+DamageWorker_Stab.ChooseHitPart: TRANS: TargetingModes.HarmonyPatches.Transpile_ChooseHitPart
+DaysWorthOfFoodCalculator.ApproxDaysWorthOfFood: PRE: Vampire.HarmonyPatches.ApproxDaysWorthOfFoodPawns_PreFix post: Vampire.HarmonyPatches.ApproxDaysWorthOfFoodPawns_PostFix
+DaysWorthOfFoodCalculator.ApproxDaysWorthOfFood: PRE: Vampire.HarmonyPatches.ApproxDaysWorthOfFood_PreFix post: Vampire.HarmonyPatches.ApproxDaysWorthOfFood_PostFix
+DebugTools_Health.Options_Damage_BodyParts: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugTools_Health.Options_Hediff_BodyParts: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugWindowsOpener.DevToolStarterOnGUI: TRANS: HugsLib.Patches.DevToolStarterOnGUI_Patch.ExtendButtonsWindow
+DebugWindowsOpener.DrawButtons: TRANS: HugsLib.Patches.DebugWindowsOpener_Patch.DrawAdditionalButtons
+DebugWindowsOpener.ToggleDebugActionsMenu: TRANS: MoreFactionInteraction.HarmonyPatches.DebugWindowsOpener_ToggleDebugActionsMenu_Patch
+DefGenerator.GenerateImpliedDefs_PreResolve: post: Fluffy_BirdsAndBees.GenerateImpliedDefs_PreResolve.Postfix, Fluffy.DefGenerator_GenerateImpliedDefs_PreResolve.Postfix, WorkTab.DefGenerator_GenerateImpliedDefs_PreResolve.Postfix
+DefMap`2.ExposeData: post: RIMMSqol.DefMapSaveStateFixWorkTypeDef.Postfix
+DefMap`2.ExposeData: post: RIMMSqol.DefMapSaveStateFixRecordDef.Postfix
+DefOfHelper.EnsureInitializedInCtor: PRE: Replace_Stuff.Mod.EnsureInitializedInCtorPrefix
+DefOfHelper.RebindAllDefOfs: post: AllowTool.Patches.DefOfHelper_RebindAll_Patch.HookBeforeImpliedDefsGeneration
+DesignationCategoryDef.get_ResolvedAllowedDesignators: post: LabelsOnFloor.DesignationCategoryDef_ResolvedAllowedDesignators_Patch.Postfix
+Designator.CanDesignateThing: post: AlienRace.HarmonyPatches.CanDesignateThingTamePostfix
+Designator_Build.CanDesignateCell: PRE: Replace_Stuff.Designator_Build_Stuff.Prefix post: Replace_Stuff.Designator_Build_Stuff.Postfix
+Designator_Build.get_Visible: PRE: Replace_Stuff.DontWipeBridgeBlueprints.Prefix post: Rimatomics.HarmonyPatches+Harmony_Designator_Build_Visible.Postfix
+Designator_Dropdown..ctor: post: Replace_Stuff.CoolersOverWalls.DropdownInOrder.Postfix
+Designator_Install.CanDesignateCell: TRANS: Replace_Stuff.BlueprintReplace.DesignatorInstall.Transpiler
+Designator_PlantsCut.IconReverseDesignating: PRE: AllowTool.Patches.DesignatorCut_ReverseIcon_Patch.NeverChangeIcon
+Designator_PlantsCut.LabelCapReverseDesignating: PRE: AllowTool.Patches.DesignatorCut_ReverseLabel_Patch.NeverChangeLabel
+Designator_RemoveBridge.CanDesignateCell: TRANS: SimplyMoreBridges.Harmony_Designator_RemoveBridge_CanDesignateCell.Transpiler
+Designator_Slaughter.CanDesignateThing: PRE: Vampire.HarmonyPatches.Vamp_CantSlaughterTemps
+DestroyedSettlement.ShouldRemoveMapNow: post: Rimatomics.HarmonyPatches+Harmony_DestroyedSettlement_ShouldRemoveMapNow.Postfix
+Dialog_BillConfig.DoWindowContents: PRE: RSA.Dialog_BillConfig_DoWindowContents.Before_DoWindowContents
+Dialog_DebugActionsMenu.<DoListingItems_MapTools>m__5A: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Dialog_DebugActionsMenu.DoListingItems_AllModePlayActions: post: RIMMSqol.DebugAction_RegenerateFactionLeaders.Postfix
+Dialog_DebugActionsMenu.DoListingItems_MapActions: post: Werewolf.HarmonyPatches.DebugMoonActions
+Dialog_DebugActionsMenu.DoListingItems_MapTools: post: Vampire.HarmonyPatches.DoListingItems_MapTools_Vamp
+Dialog_FormCaravan.AddPawnsToTransferables: PRE: Psychology.Harmony.Dialog_FormCaravan_AddPawnsToTransferables_Patch.DoWindowContentsDisbandCaravans
+Dialog_FormCaravan.CheckForErrors: PRE: CompVehicle.HarmonyCompVehicle.CheckForErrors_PreFix post: Vampire.HarmonyPatches.CheckForErrors_Vampires
+Dialog_ManageOutfits.DoWindowContents: PRE: RSA.DialogManageOutfits_DoWindowContents.Before_DoWindowContents
+Dialog_Options.DoWindowContents: TRANS: HugsLib.Patches.Dialog_Options_Patch.ReplaceModOptionsButton
+Dialog_RenameZone.SetName: post: LabelsOnFloor.Dialog_RenameZone_SetName_Patch.Postfix
+Dialog_SplitCaravan.CheckForErrors: PRE: CompVehicle.HarmonyCompVehicle.DontSplitCaravansWithVehicles
+DropPodUtility.DropThingGroupsNear: PRE: RFScenarios_Code.ScenPart_PlayerPawnsArriveMethod_DropThingGroupsNear.Prefix
+DynamicDrawManager.DrawDynamicThings: PRE: LabelsOnFloor.DynamicDrawManager_DrawDynamicThings_Patch.Prefix
+EditWindow_Log.DoMessagesListing: PRE: HugsLib.Patches.EditWindow_Log_Patch.ExtraLogWindowButtons
+EditWindow_TweakValues.DoWindowContents: TRANS: AlienRace.HarmonyPatches.TweakValuesTranspiler
+Entity.Tick: post: TKKN_NPS.PatchTickThing.Postfix
+ExpectationsUtility.CurrentExpectationFor: post: Hospitality.Harmony.ExpectationsUtility_Patch+CurrentExpectationForPawn.Postfix
+Faction.CheckNaturalTendencyToReachGoodwillThreshold: PRE: FactionControl.Patch_Faction_CheckNaturalTendencyToReachGoodwillThreshold.Prefix
+Faction.FactionTick: TRANS: AlienRace.HarmonyPatches.FactionTickTranspiler
+Faction.Notify_MemberDied: PRE: JecsTools.HarmonyPatches.Notify_MemberDied, Arachnophobia.HarmonyPatches.Notify_MemberDied_Prefix
+Faction.Notify_MemberTookDamage: post: Arachnophobia.HarmonyPatches.Notify_MemberTookDamage_PostFix
+Faction.TryAffectGoodwillWith: PRE: BadPeople.HarmonyPatches.Trigger_ChangingAlliance.Prefix
+Faction.TryMakeInitialRelationsWith: post: AlienRace.HarmonyPatches.TryMakeInitialRelationsWithPostfix
+Faction.get_Color: PRE: FactionControl.Patch_Faction_get_Color.Prefix
+FactionDialogMaker.FactionDialogFor: post: Hospitality.Harmony.FactionDialogMaker_Patch+FactionDialogFor.Postfix
+FactionGenerator.EnsureRequiredEnemies: PRE: FactionControl.FactionGenerator_EnsureRequiredEnemies.Prefix
+FactionGenerator.GenerateFactionsIntoWorld: PRE: FactionControl.FactionGenerator_GenerateFactionsIntoWorld.Prefix, TribalRaiders_Code.FactionGenerator_GenerateFactionsIntoWorld.Prefix
+FactionUtility.IsPoliticallyProper: post: Hospitality.Harmony.FactionUtility_Patch+IsPoliticallyProper.Postfix
+FertilityGrid.CalculateFertilityAt: post: TorannMagic.HarmonyPatches+FertilityGrid_Patch.Postfix, TorannMagic.HarmonyPatches+FertilityGrid_Patch.Postfix
+FloatMenuMakerMap.AddHumanlikeOrders: PRE: BioReactor.FloatMenuMakerMapPatches.Prefix_AddHumanlikeOrders post: JecsTools._HumanlikeOrdersUtility.AddHumanlikeOrders_PostFix, CompVehicle.HarmonyCompVehicle.DontRescueVehiclesInFloatMenus, AlienRace.HarmonyPatches.AddHumanlikeOrdersPostfix, Vampire.HarmonyPatches.AddHumanlikeOrders_Vamp, TorannMagic.HarmonyPatches+FloatMenuMakerMap_Patch.Postfix, SimpleSidearms.intercepts.FloatMenuMakerMap_AddHumanLikeOrders_Postfix.AddHumanlikeOrders, TorannMagic.HarmonyPatches+FloatMenuMakerMap_Patch.Postfix TRANS: PickUpAndHaul.HarmonyPatches.FloatMenuMakerMad_AddHumanlikeOrders_Transpiler
+FloatMenuMakerMap.CanTakeOrder: post: DraftingPatcher.FloatMenuMakerMap_CanTakeOrder_Patch.MakePawnControllable
+FloatMenuMakerMap.ChoicesAtFor: post: TorannMagic.HarmonyPatches+FloatMenuMakerMap_ROMV_Undead_Patch.Postfix, TorannMagic.HarmonyPatches+FloatMenuMakerMap_ROMV_Undead_Patch.Postfix
+FogGrid.UnfogWorker: post: Replace_Stuff.OverMineable.UnFogFix.Postfix
+FoodUtility.BestFoodSourceOnMap: PRE: RIMMSqol.ThinkResultContextFood2.Prefix post: RIMMSqol.ThinkResultContextFood2.Postfix
+FoodUtility.GetBodyPartNutrition: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+FoodUtility.ThoughtsFromIngesting: post: AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix, Psychology.Harmony.FoodUtility_AddPickyThoughts_Patch.AddPickyThoughtsPatch
+FoodUtility.TryFindBestFoodSourceFor: PRE: RIMMSqol.ThinkResultContextFood1.Prefix post: RIMMSqol.ThinkResultContextFood1.Postfix
+FoodUtility.WillIngestStackCountOf: PRE: Vampire.HarmonyPatches.Vamp_WillIngestStackCountOf
+ForbidUtility.CaresAboutForbidden: PRE: Hospitality.Harmony.ForbidUtility_Patch+CaresAboutForbidden.Replacement
+ForbidUtility.IsForbidden: post: Vampire.HarmonyPatches.Vamp_IsForbidden
+ForbidUtility.IsForbidden: post: RIMMSqol.ThingForbiddenPredicatesFix.Postfix, TKKN_NPS.PatchIsForbidden.Postfix
+ForbidUtility.SetForbidden: PRE: Hospitality.Harmony.ForbidUtility_Patch+SetForbidden.Prefix
+Frame.CompleteConstruction: PRE: Replace_Stuff.Virtualize_CompleteConstruction.Prefix, Replace_Stuff.NewThing.RememberWasNewThing.Prefix
+Frame.FailConstruction: PRE: Replace_Stuff.Virtualize_FailConstruction.Prefix
+Frame.MaterialsNeeded: PRE: Replace_Stuff.Virtualize_MaterialsNeeded.Prefix
+Frame.get_WorkToBuild: PRE: Replace_Stuff.Virtualize_WorkToBuild.Prefix post: Replace_Stuff.NewThing.NewThingDeconstructWork.Postfix
+Game.DeinitAndRemoveMap: post: HugsLib.Patches.Game_DeinitAndRemoveMap_Patch.MapRemovalHook
+Game.FillComponents: PRE: HugsLib.Patches.Game_FillComponents_Patch.GameInitializationHook
+Game.FinalizeInit: post: HugsLib.Patches.Game_FinalizeInit_Patch.WorldLoadedHook, ExpandedRoofing.HarmonyPatches.GameInited
+Game.InitNewGame: post: EdB.PrepareCarefully.HarmonyPatches.InitNewGamePostfix
+GameComponentUtility.LoadedGame: post: RimFridge.Patch_GameComponentUtility_LoadedGame.Postfix
+GameComponentUtility.StartedNewGame: post: RimFridge.Patch_GameComponentUtility_StartedNewGame.Postfix
+GameDataSaveLoader.SaveGame: post: RealRuins.RealRuins+SaveGame_Patch.Postfix
+GameEnder.IsPlayerControlledWithFreeColonist: post: CompVehicle.HarmonyCompVehicle.CanEndGame
+GameInitData.PrepForMapGen: PRE: AlienRace.HarmonyPatches.PrepForMapGenPrefix
+GameRules.DesignatorAllowed: post: AlienRace.HarmonyPatches.DesignatorAllowedPostfix
+GatherSpotLister.RegisterActivated: post: LabelsOnFloor.GatherSpotLister_RegisterActivated_Patch.Postfix
+GatherSpotLister.RegisterDeactivated: post: LabelsOnFloor.GatherSpotLister_RegisterDeactivated_Patch.Postfix
+GatheringsUtility.ShouldGuestKeepAttendingGathering: PRE: Vampire.HarmonyPatches.Vamp_GuestFix, Hospitality.Harmony.GatheringsUtility_Patch+ShouldGuestKeepAttendingGathering.Prefix
+GenCelestial.CelestialSunGlowPercent: post: Vampire.HarmonyPatches.Vamp_CelestialSunGlowPercent
+GenConstruct.BlocksConstruction: PRE: Replace_Stuff.PlaceBridges.HandleBlocksConstruction.Prefix, Replace_Stuff.Other.PawnBlockConstruction.Prefix post: Replace_Stuff.CoolerWallShare_Blocks.Postfix, Replace_Stuff.ReplaceFrameNoBlock.Postfix, Replace_Stuff.OverMineable.MineableBlocksConstruction.Postfix, Replace_Stuff.NewThing.NewThingBlocksConstruction.Postfix, JecsTools.HarmonyPatches.BlocksConstruction_PostFix, ShipsHaveInsides.Mod.DontBlockHullUnderDoor.BlocksConstruction TRANS: Replace_Stuff.Other.FramesDontBlock.Transpiler, ExpandedRoofing.HarmonyPatches.FixClearBuildingArea
+GenConstruct.CanBuildOnTerrain: PRE: Replace_Stuff.PlaceBridges.CanPlaceBlueprint.Prefix
+GenConstruct.CanConstruct: post: AlienRace.HarmonyPatches.CanConstructPostfix
+GenConstruct.CanPlaceBlueprintAt: post: Replace_Stuff.NormalBuildReplace.Postfix, SimplyMoreBridges.Harmony_GenConstruct_CanPlaceBlueprintAt.Postfix TRANS: Replace_Stuff.NormalBuildReplace.Transpiler, Replace_Stuff.OverMineable.BlueprintOverFogged.Transpiler, Replace_Stuff.OverMineable.InteractionSpot.Transpiler
+GenConstruct.CanPlaceBlueprintOver: post: Replace_Stuff.CoolerWallShare_Blueprint.Postfix, Replace_Stuff.OverMineable.CanPlaceBlueprintOverMineable.Postfix, Replace_Stuff.NewThing.CanPlaceBlueprintOverOldThing.Postfix, ShipsHaveInsides.Mod.AllowHullUnderDoor.CanPlaceBlueprintOver TRANS: Replace_Stuff.OverMineable.FramesAreEdificesInSomeCases.Transpiler
+GenConstruct.HandleBlockingThingJob: TRANS: Replace_Stuff.OverMineable.DontMineSmoothingRock.Transpiler
+GenConstruct.PlaceBlueprintForBuild: PRE: Replace_Stuff.Replace.InterceptBlueprint.Prefix, Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame.Prefix, Replace_Stuff.OverMineable.InterceptBlueprintOverMinable.Prefix
+GenConstruct.PlaceBlueprintForInstall: PRE: Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame_Install.Prefix
+GenConstruct.PlaceBlueprintForReinstall: PRE: Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame_Reinstall.Prefix
+GenDraw.DrawAimPie: PRE: GiddyUpCore.Harmony.GenDraw_DrawAimPie.Prefix
+GenDraw.DrawRadiusRing: PRE: TorannMagic.HarmonyPatches.DrawRadiusRing_Patch
+GenGameEnd.EndGameDialogMessage: post: RealRuins.RealRuins+GameOver_Patch.Postfix
+GenGrid.Standable: PRE: TorannMagic.HarmonyPatches+Standable_Patch.Prefix, TorannMagic.HarmonyPatches+Standable_Patch.Prefix
+GenGuest.PrisonerRelease: PRE: BadPeople.HarmonyPatches.Trigger_ReleasePrisoner.Prefix
+GenHostility.GetPreyOfMyFaction: (no patches)
+GenPath.ShouldNotEnterCell: post: Replace_Stuff.OverMineable.ShouldNotEnterCellPatch.Postfix
+GenRecipe.MakeRecipeProducts: post: Autopsy.MakeRecipeProductsPatch.Postfix
+GenSpawn.Refund: post: Replace_Stuff.NewThing.RefundDeconstruct.Postfix TRANS: Replace_Stuff.NewThing.RefundDeconstruct.Transpiler
+GenSpawn.Spawn: PRE: Replace_Stuff.NewThing.TransferSettings.Prefix post: Replace_Stuff.NewThing.TransferSettings.Postfix TRANS: ProjectRimFactory.Common.HarmonyPatches.GenSpawnPatch.Transpiler
+GenSpawn.SpawningWipes: PRE: Replace_Stuff.PlaceBridges.DontWipeBridgeBlueprints.Prefix post: Replace_Stuff.CoolerWallShare_Wipes.Postfix, Replace_Stuff.CoolerWipesCooler.Postfix, Replace_Stuff.OverMineable.NoWipeFrame.Postfix, Replace_Stuff.BlueprintReplace.WipeBlueprints.Postfix, JecsTools.HarmonyPatches.SpawningWipes_PostFix
+GenTemperature.ComfortableTemperatureRange: post: TKKN_NPS.PatchComfortableTemperatureRange.Postfix
+GhostDrawer.DrawGhostThing: PRE: Replace_Stuff.OverMineable.GhostOverFogChecker.Prefix
+GhostUtility.GhostGraphicFor: TRANS: Replace_Stuff.OverMineable.ShowGhostOverFog.Transpiler
+GlobalControlsUtility.DoDate: post: FoodAlert.HarmonyPatches.FoodCounter_NearDatePostfix
+GlowGrid.GameGlowAt: TRANS: ExpandedRoofing.HarmonyPatches.PlantLightingFix
+GrammarUtility.RulesForPawn: post: AlienRace.HarmonyPatches.RulesForPawnPostfix
+Graphic_Shadow.DrawWorker: PRE: TKKN_NPS.PatchGraphic+PatchDrawWorker.Prefix
+HaulAIUtility.TryFindSpotToPlaceHaulableCloseTo: post: Replace_Stuff.OverMineable.TryFindSpotToPlaceHaulableCloseToPatch.Postfix
+HealthCardUtility.DrawHediffListing: TRANS: BlueLeakTest.HealthCardUtility_DrawHediffListing.Transpiler
+HealthCardUtility.DrawHediffRow: TRANS: BlueLeakTest.HealthCardUtility_DrawHediffRow.Transpiler
+HealthCardUtility.DrawOverviewTab: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HealthCardUtility.GetEfficiencyLabel: post: Vampire.HarmonyPatches.GetEfficiencyLabel
+HealthCardUtility.GetPawnCapacityTip: post: Vampire.HarmonyPatches.Vamp_GetPawnCapacityTip
+HealthCardUtility.GetTooltip: TRANS: BlueLeakTest.HealthCardUtility_GetTooltip.Transpiler
+HealthUtility.DamageUntilDowned: PRE: Werewolf.HarmonyPatches.DebugDownWerewolf
+HealthUtility.GetGeneralConditionLabel: PRE: CompVehicle.HarmonyCompVehicle.ReplaceConditionLabel
+HealthUtility.ShouldRandomSurgeryInjuriesAvoidDestroying: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Hediff.Tick: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Hediff.set_Part: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler, AlienRace.HarmonyPatches.BodyReferenceTranspiler, AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffGiver.TryApply: PRE: Fluffy_BirdsAndBees.HediffGiver_TryApply.Prefix
+HediffGiver_Heat.OnIntervalPassed: post: Vampire.HarmonyPatches.Vamp_IgnoreStrokeAndHypotherm
+HediffGiver_Hypothermia.OnIntervalPassed: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffGiver_RandomAgeCurved.OnIntervalPassed: PRE: Vampire.HarmonyPatches.VampsDontHaveHeartAttacks
+HediffSet.<get_HasHead>m__0: post: AlienRace.HarmonyPatches.HasHeadPostfix
+HediffSet.AddDirect: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffSet.CacheMissingPartsCommonAncestors: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffSet.get_HasHead: PRE: AlienRace.HarmonyPatches.HasHeadPrefix
+Hediff_Injury.get_BleedRate: post: Vampire.HarmonyPatches.get_VampBleedRate
+ILInstruction.GetSize: TRANS: AlienRace.HarmonyPatches.HarmonySizeBugFix
+ITab_Pawn_Character.FillTab: PRE: Vampire.HarmonyPatches.Vamp_FillTab
+ITab_Pawn_Gear.DrawThingRow: post: CompSlotLoadable.HarmonyCompSlotLoadable.DrawThingRow_PostFix, TorannMagic.HarmonyPatches+ITab_Pawn_Gear_Patch.Postfix, TorannMagic.HarmonyPatches+ITab_Pawn_Gear_Patch.Postfix TRANS: PickUpAndHaul.DrawThingRow_Patch.Transpiler
+ITab_Pawn_Gear.InterfaceDrop: PRE: CompInstalledPart.HarmonyCompInstalledPart.InterfaceDrop_PreFix, SimpleSidearms.intercepts.ITab_Pawn_Gear_InterfaceDrop_Prefix.InterfaceDrop, Hospitality.Harmony.ITab_Pawn_Gear_Patch+InterfaceDrop.Prefix
+ITab_Pawn_Gear.TryDrawOverallArmor: post: TorannMagic.HarmonyPatches+ITab_Pawn_GearFillTab_Patch.Postfix, TorannMagic.HarmonyPatches+ITab_Pawn_GearFillTab_Patch.Postfix TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ITab_Pawn_Guest.get_IsVisible: post: Hospitality.Harmony.ITab_Pawn_Guest_Patch+IsVisible.Postfix
+ITab_Storage.FillTab: PRE: RSA.ITab_Storage_FillTab.Before_ITab_Storage_FillTab
+IncidentParmsUtility.GetDefaultPawnGroupMakerParms: post: TorannMagic.HarmonyPatches+GetDefaultPawnGroupMakerParms_Patch.Postfix, TorannMagic.HarmonyPatches+GetDefaultPawnGroupMakerParms_Patch.Postfix
+IncidentWorker_DiseaseAnimal.PotentialVictimCandidates: post: TorannMagic.HarmonyPatches.DiseaseHuman_Candidates_Patch
+IncidentWorker_DiseaseHuman.PotentialVictimCandidates: post: TorannMagic.HarmonyPatches.DiseaseHuman_Candidates_Patch
+IncidentWorker_RaidEnemy.FactionCanBeGroupSource: PRE: FactionControl.IncidentWorker_RaidEnemy_FactionCanBeGroupSource.Prefix
+IncidentWorker_RefugeeChased.TryExecuteWorker: TRANS: BadPeople.HarmonyPatches.Patch_SetCurrentRefugee.Transpiler
+IncidentWorker_SelfTame.Candidates: post: TorannMagic.HarmonyPatches.SelfTame_Candidates_Patch
+IncidentWorker_ShipChunkDrop.SpawnChunk: PRE: RFScenarios_Code.IncidentWorker_ShipChunkDrop_SpawnChunk.Prefix
+InfestationCellFinder.GetScoreAt: post: Rimatomics.HarmonyPatches+Harmony_GetScoreAt.Postfix TRANS: ExpandedRoofing.HarmonyPatches.ThickRoofInfestationFix
+InspectGizmoGrid.DrawInspectGizmoGridFor: TRANS: AllowTool.Patches.InspectGizmoGrid_DrawInspectGizmoGridFor_Patch.RegisterReverseDesignatorCommandPair
+InspirationHandler.TryStartInspiration: PRE: TorannMagic.HarmonyPatches+InspirationHandler_Patch.Prefix, TorannMagic.HarmonyPatches+InspirationHandler_Patch.Prefix
+InteractionUtility.CanInitiateRandomInteraction: post: Psychology.Harmony.InteractionUtility_CanInitiate_Patch.PsychologyAddonsForCanInitiate
+InteractionUtility.CanReceiveRandomInteraction: post: Psychology.Harmony.InteractionUtility_CanReceive_Patch.PsychologyAddonsForCanReceive
+InteractionUtility.TryGetRandomVerbForSocialFight: post: Psychology.Harmony.InteractionUtility_SocialFightVerb_Patch.RemoveBiting
+InteractionWorker_Breakup.Interacted: PRE: Psychology.Harmony.InteractionWorker_Breakup_Interacted_Patch.NewInteracted
+InteractionWorker_Breakup.RandomSelectionWeight: PRE: Psychology.Harmony.InteractionWorker_RandomSelectionWeight_Patch.NewSelectionWeight
+InteractionWorker_DeepTalk.RandomSelectionWeight: PRE: Psychology.Harmony.InteractionWorker_DeepTalk_SelectionWeightPatch.PsychologyException
+InteractionWorker_MarriageProposal.AcceptanceChance: PRE: Psychology.Harmony.InteractionWorker_MarriageProposal_AcceptanceChancePatch.PsychologyException
+InteractionWorker_MarriageProposal.Interacted: TRANS: Psychology.Harmony.InteractionWorker_MarriageProposal_InteractedPatch.BlindfoldedSurgery
+InteractionWorker_MarriageProposal.RandomSelectionWeight: post: Psychology.Harmony.InteractionWorker_MarriageProposal_SelectionWeightPatch._RandomSelectionWeight
+InteractionWorker_RecruitAttempt.DoRecruit: PRE: Psychology.Harmony.InteractionWorker_RecruitAttempt_DoRecruitPatch.AddCapturedThoughts
+InteractionWorker_RomanceAttempt.BreakLoverAndFianceRelations: PRE: Psychology.Harmony.InteractionWorker_RomanceAttempt_BreakRelationsPatch.BreakRelations
+InteractionWorker_RomanceAttempt.Interacted: PRE: [600]Psychology.Harmony.InteractionWorker_RomanceAttempt_InteractedLearnSexualityPatch.LearnSexuality post: Psychology.Harmony.InteractionWorker_RomanceAttempt_InteractedHandleThoughtsPatch.HandleNewThoughts
+InteractionWorker_RomanceAttempt.RandomSelectionWeight: post: [0]Psychology.Harmony.InteractionWorker_RomanceAttempt_SelectionWeightPatch.PsychologyException
+InteractionWorker_RomanceAttempt.SuccessChance: post: [0]Psychology.Harmony.InteractionWorker_RomanceAttempt_SuccessChancePatch.NewSuccessChance
+InteractionWorker_RomanceAttempt.TryAddCheaterThought: post: Psychology.Harmony.InteractionWorker_RomanceAttempt_CheaterThoughtPatch.AddCodependentThought
+JobDriver.DriverTick: PRE: Hospitality.Harmony.JobDriver_Patch+DriverTick.Prefix
+JobDriver.SetupToils: post: RunAndGun.Harmony.JobDriver_SetupToils.Postfix
+JobDriver_AttackMelee.TryMakePreToilReservations: post: SimpleSidearms.intercepts.JobDriver_AttackMelee_TryMakePreToilReservations.Postfix
+JobDriver_HaulToCell.MakeNewToils: post: PickUpAndHaul.HarmonyPatches.JobDriver_HaulToCell_PostFix
+JobDriver_Ingest.ReserveFoodIfWillIngestWholeStack: post: Hospitality.Harmony.JobDriver_Ingest_Patch+ReserveFoodIfWillIngestWholeStack.Postfix
+JobDriver_Mine.ResetTicksToPickHit: post: TorannMagic.HarmonyPatches+JobDriver_Mine_Patch.Postfix, TorannMagic.HarmonyPatches+JobDriver_Mine_Patch.Postfix
+JobDriver_Skygaze.GetReport: post: Vampire.HarmonyPatches.Vamp_QuitWatchingSunrisesAlreadyJeez
+JobDriver_Vomit.MakeNewToils: PRE: Vampire.HarmonyPatches.MakeNewToils_VampVomit
+JobDriver_Wait.CheckForAutoAttack: post: AllowTool.Patches.JobDriverWait_CheckForAutoAttack_Patch.DoPartyHunting
+JobDriver_Wear.Notify_Starting: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+JobDriver_Wear.TryUnequipSomething: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+JobGiver_AIAbilityUser.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AIClean.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AIDefendPawn.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AIDefendPawn.TryGiveJob: PRE: AnimalRangeAttack.ARA_FightAI_Patch.Prefix, AlphaAnimalRangeAttack.ARA_FightAI_Patch.Prefix
+JobGiver_AIFightEnemy.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, Vampire.HarmonyPatches.BloodMist_NoAttack
+JobGiver_AIFirelessTrashColonyClose.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AIFirelessTrashColonyDistant.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AIFollowPawn.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AIGotoNearestHostile.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AISapper.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AITrashBuildingsDistant.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AITrashColonyClose.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Abuse.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AnimalFlee.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Apathy.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ArmSelf.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_AttackAndTransform.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Berserk.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Binge.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, Vampire.HarmonyPatches.Vamp_DontBinge
+JobGiver_Compulsion.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ConfigurableHostilityResponse.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_DoLovin.TryGiveJob: PRE: Fluffy_BirdsAndBees.JobGiver_DoLovin_TryGiveJob.Prefix post: Fluffy_BirdsAndBees.JobGiver_DoLovin_TryGiveJob.Postfix, Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, Psychology.Harmony.JobGiver_DoLovin_JobPatch.CancelJob
+JobGiver_DroneFlee.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_DroneMain.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_DropRandomGearOrApparel.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_DropUnusedInventory.Drop: PRE: PickUpAndHaul.HarmonyPatches.Drop_Prefix
+JobGiver_DropUnusedInventory.TryGiveJob: post: PickUpAndHaul.HarmonyPatches.DropUnusedInventory_PostFix, Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Dryoff.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_EatInPartyArea.TryGiveJob: PRE: Vampire.HarmonyPatches.Vamp_DontEatAtTheParty post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_EatRandom.TryGiveJob: PRE: TorannMagic.HarmonyPatches+JobGiver_EatRandom_Patch.Prefix, TorannMagic.HarmonyPatches+JobGiver_EatRandom_Patch.Prefix post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_EnactPlot.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_EnterTransporter.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ExitMap.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ExtinguishSelf.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_FightFiresNearPoint.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_FireStartingSpree.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_FleePotentialExplosion.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ForceSleepNow.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ForcedGoto.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GetBlood.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GetFood.TryGiveJob: PRE: TorannMagic.HarmonyPatches+JobGiver_GetFood_Patch.Prefix, TorannMagic.HarmonyPatches+JobGiver_GetFood_Patch.Prefix post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GetFoodSpider.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GetJoy.TryGiveJob: PRE: Vampire.HarmonyPatches.INeverDrink___Juice post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GetJoyInBed.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GetRest.FindGroundSleepSpotFor: post: Vampire.HarmonyPatches.FindGroundSleepSpotFor_Vampire
+JobGiver_GetRest.GetPriority: post: Psychology.Harmony.JobGiver_GetRest_PriorityPatch.InsomniacPriority
+JobGiver_GetRest.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral TRANS: Replace_Stuff.Replace.DisableBed.Transpiler
+JobGiver_GoHunting.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GoSwimming.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_GotoTravelDestination.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Haul.TryGiveJob: PRE: CompVehicle.HarmonyCompVehicle.TryGiveJob_PreFix post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_HaulCorpseToPublicPlace.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Idle.TryGiveJob: post: PickUpAndHaul.HarmonyPatches.IdleJoy_Postfix, Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_IdleError.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_IdleForever.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_IdleJoy.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, Vampire.HarmonyPatches.Vamps_DontDoIdleDrugs
+JobGiver_InducePrisonerToEscape.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_InsultingSpree.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_JumpInWater.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_KeepLyingDown.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Kidnap.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, TorannMagic.HarmonyPatches+JobGiver_Kidnap_Patch.Postfix, TorannMagic.HarmonyPatches+JobGiver_Kidnap_Patch.Postfix
+JobGiver_LayEgg.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_LoadTransporters.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_MaintainHiveChunkSW.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_MaintainHives.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_MakeAdvance.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ManTurrets.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Manhunter.TryGiveJob: PRE: AnimalRangeAttack.ARA__ManHunter_Patch.Prefix, AlphaAnimalRangeAttack.ARA__ManHunter_Patch.Prefix post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_MarryAdjacentPawn.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Mate.TryGiveJob: PRE: Fluffy_BirdsAndBees.JobGiver_Mate_TryGiveJob.Prefix post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, TorannMagic.HarmonyPatches+JobGiver_Mate_Patch.Postfix, TorannMagic.HarmonyPatches+JobGiver_Mate_Patch.Postfix
+JobGiver_MineRandom.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_MoveToStandable.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_MurderousRage.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Nuzzle.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_OptimizeApparel.ApparelScoreGain: post: AlienRace.HarmonyPatches.ApparelScoreGainPostFix TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+JobGiver_OptimizeApparel.TryGiveJob: PRE: Werewolf.HarmonyPatches.DontOptimizeWerewolfApparel post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Orders.TryGiveJob: post: CompVehicle.HarmonyCompVehicle.PreventWaitAttackError, Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PackAnimalFollowColonists.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PackFood.TryGiveJob: PRE: Vampire.HarmonyPatches.VampsDontPackFood post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PickUpOpportunisticWeapon.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PrepareCaravan_GatherDownedPawns.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PrepareCaravan_GatherItems.TryGiveJob: PRE: CompVehicle.HarmonyCompVehicle.TryGiveItemJob_PreFix post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PrepareCaravan_GatherPawns.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PrisonerEscape.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PrisonerGetDressed.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PrisonerWaitInsteadOfEscaping.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_PsionicNuzzle.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ReachOutside.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ReactToCloseMeleeThreat.IsHunting: post: Arachnophobia.HarmonyPatches.IsHunting_PostFix
+JobGiver_ReactToCloseMeleeThreat.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Relax.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_RelaxInSpring.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_RescueNearby.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_RetrieveWeapon.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SatisfyChemicalNeed.DrugValidator: post: AlienRace.HarmonyPatches.DrugValidatorPostfix
+JobGiver_SatisfyChemicalNeed.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SeekAllowedArea.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SeekSafeTemperature.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, TKKN_NPS.PatchTryGiveJob.Postfix
+JobGiver_SeekShelterFromSunlight.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SelfTend.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_ShareBlood.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SlaughterRandomAnimal.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SocialFighting.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral, TorannMagic.HarmonyPatches+JobGiver_SocialFighting_Patch.Postfix, TorannMagic.HarmonyPatches+JobGiver_SocialFighting_Patch.Postfix
+JobGiver_SpectateDutySpectateRect.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_SpendTimeTogether.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_StandAndBeSociallyActive.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Steal.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_TakeCombatEnhancingDrug.TryGiveJob: PRE: Vampire.HarmonyPatches.TryGiveJob_DrugGiver_Vampire post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_TakeDrugsForDrugPolicy.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_TakeWoundedGuest.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Tantrum.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_TargetEnemiesSwarm.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_UnloadMyLordCarriers.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_UnloadYourInventory.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_VampireBeast.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Vote.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Wander.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_WerewolfHunt.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JobGiver_Work.PawnCanUseWorkGiver: PRE: Hospitality.Harmony.JobGiver_Work_Patch+PawnCanUseWorkGiver.Prefix
+JobGiver_Work.TryIssueJobPackage: PRE: Hospitality.Harmony.JobGiver_Work_Patch+TryIssueJobPackage.Prefix TRANS: ExpandedRoofing.FixFinishFrameBuildOrder.Transpiler
+JoyGiver_BuildSnowman.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_BuyStuff.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_GoForWalk.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_InPrivateRoom.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_Ingest.CanIngestForJoy: post: Hospitality.Harmony.JoyGiver_Ingest_Patch+CanIngestForJoy.Postfix
+JoyGiver_Ingest.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_InteractBuilding.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_ReadABook.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_Skygaze.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_SocialRelax.TryFindIngestibleToNurse: PRE: Vampire.HarmonyPatches.INeverDrink___Wine
+JoyGiver_SocialRelax.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_ViewArt.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_VisitGrave.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyGiver_VisitSickPawn.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+JoyUtility.EnjoyableOutsideNow: post: Vampire.HarmonyPatches.EnjoyableOutsideNow_Vampire
+LanguageDatabase.LoadAllMetadata: post: RIMMSqol.LanguageChangeListener.Postfix
+LanguageDatabase.SelectLanguage: PRE: HugsLib.Patches.LanguageDatabase_Patch.ForceRestartAfterLangChange
+ListerBuildings.Add: post: LabelsOnFloor.ListerBuildings_Add_Patch.Postfix
+ListerBuildings.Remove: post: LabelsOnFloor.ListerBuildings_Remove_Patch.Postfix
+ListerBuildingsRepairable.Notify_BuildingRepaired: post: ExpandedRoofing.HarmonyPatches.BuildingRepairedPostfix
+Listing_TreeThingFilter.DoCategoryChildren: PRE: RSA.Core.ThingFilter_InjectFilter.Before_DoCategoryChildren
+Listing_TreeThingFilter.Visible: post: Vampire.HarmonyPatches.CorpsesAreNotVisible
+LoadedModManager.ApplyPatches: PRE: ModCheck.VanillaPatching.Prefix post: ModCheck.VanillaPatching.Postfix TRANS: ModCheck.VanillaPatching.Transpiler
+LoadedModManager.GetSettingsFilename: PRE: FactionControl.LoadedModManager_GetSettingsFilename.Prefix
+LordMaker.MakeNewLord: post: Vampire.HarmonyPatches.VampiresGuestTracker
+LordToil_AssaultColony.UpdateAllDuties: post: Werewolf.HarmonyPatches.UpdateAllDuties_PostFix
+LordToil_PrepareCaravan_GatherAnimals.UpdateAllDuties: PRE: CompVehicle.HarmonyCompVehicle.GiveVehiclesLoadAnimalDuties
+LordToil_PrepareCaravan_GatherItems.LordToilTick: PRE: CompVehicle.HarmonyCompVehicle.GiveVehiclesLoadItemToil
+LordToil_PrepareCaravan_GatherItems.UpdateAllDuties: PRE: CompVehicle.HarmonyCompVehicle.GiveVehiclesLoadItemDuties
+LordToil_PrepareCaravan_GatherSlaves.LordToilTick: PRE: CompVehicle.HarmonyCompVehicle.GiveVehiclesLoadSlaveDuties
+LordToil_Siege.CanBeBuilder: PRE: TorannMagic.HarmonyPatches+CanBeBuilder_Patch.Prefix, TorannMagic.HarmonyPatches+CanBeBuilder_Patch.Prefix
+LordToil_Siege.Notify_PawnLost: PRE: TorannMagic.HarmonyPatches+Notify_PawnLost_Patch.Prefix, TorannMagic.HarmonyPatches+Notify_PawnLost_Patch.Prefix
+LovePartnerRelationUtility.ChangeSpouseRelationsToExSpouse: PRE: Psychology.Harmony.LovePartnerRelationUtility_PolygamousSpousePatch.PolygamousException
+LovePartnerRelationUtility.GetLovinMtbHours: PRE: Vampire.HarmonyPatches.Vamp_LovinFoodFix
+LovePartnerRelationUtility.LovePartnerRelationGenerationChance: post: [0]Psychology.Harmony.LovePartnerRelationUtility_GenerationChancePatch.PsychologyFormula
+MainMenuDrawer.MainMenuOnGUI: post: ModCheck.DoneLoading.Postfix
+MainTabWindow_Architect.CacheDesPanels: PRE: RIMMSqol.ArchitectButtonFix.Prefix
+MainTabWindow_Research.DrawRightRect: TRANS: AlienRace.HarmonyPatches.ResearchScreenTranspiler
+MainTabWindow_Research.ViewSize: TRANS: AlienRace.HarmonyPatches.ResearchScreenTranspiler
+ManhunterPackIncidentUtility.GenerateAnimals: post: TargetingModes.HarmonyPatches.Postfix_GenerateAnimals
+Map.ConstructComponents: post: HugsLib.Patches.Map_ConstructComponents_Patch.MapComponentsInitHook
+Map.FinalizeInit: post: HugsLib.Patches.Map_FinalizeInit_Patch.MapLoadedHook
+Map.get_Biome: post: DeepRim.HarmonyPatches.MapBiomePostfix
+MapComponentUtility.MapGenerated: post: HugsLib.Patches.MapComponentUtility_MapGenerated_Patch.MapGeneratedHook
+MapDrawer.DrawMapMesh: PRE: ShipsHaveInsides.Mod.RenderPlanetBehindMap.PreDraw
+MapInterface.MapInterfaceOnGUI_BeforeMainTabs: post: Bubbles.Patch.RimWorld_MapInterface_MapInterfaceOnGUI_BeforeMainTabs.Postfix
+MapInterface.MapInterfaceUpdate: post: HeatMap.MapInterface_Detour.Postfix
+MapParent.CheckRemoveMapNow: PRE: TorannMagic.HarmonyPatches+CheckRemoveMapNow_Patch.Prefix, TorannMagic.HarmonyPatches+CheckRemoveMapNow_Patch.Prefix
+MapPawns.get_AnyPawnBlockingMapRemoval: post: Vampire.HarmonyPatches.get_LetVampiresKeepMapsOpen
+MapPawns.get_FreeColonistsSpawnedCount: post: CompVehicle.HarmonyCompVehicle.IncludeVehicleOccupantsInMapPawns
+MapPawns.get_FreeColonistsSpawnedOrInPlayerEjectablePodsCount: post: CompVehicle.HarmonyCompVehicle.IncludeVehicleOccupantsInMapPawns
+MassUtility.Capacity: post: CompVehicle.HarmonyCompVehicle.Capacity_PostFix, DraftingPatcher.MassUtility_Capacity_Patch.MakeThemCarryMore
+MemoryThoughtHandler.TryGainMemory: PRE: AlienRace.HarmonyPatches.TryGainMemoryThoughtPrefix post: BadPeople.HarmonyPatches.Trigger_ThoughtAdded.Postfix
+MemoryUtility.ClearAllMapsAndWorld: PRE: Bubbles.Patch.Verse_Profile_MemoryUtility_ClearAllMapsAndWorld.Prefix
+MentalBreaker.TryDoRandomMoodCausedMentalBreak: post: Psychology.Harmony.MentalBreaker_AnxietyPatch.AddAnxiety
+MentalStateHandler.TryStartMentalState: PRE: TorannMagic.HarmonyPatches+MentalStateHandler_Patch.Prefix, TorannMagic.HarmonyPatches+MentalStateHandler_Patch.Prefix post: RunAndGun.Harmony.MentalStateHandler_TryStartMentalState.Postfix
+MentalStateWorker_BingingDrug.StateCanOccur: post: Psychology.Harmony.MentalStateWorker_BingingDrugPatch.DrugFreeDisable
+MentalState_SocialFighting.PostEnd: post: Psychology.Harmony.MentalState_SocialFighting_ThoughtPatch.WhoWon TRANS: Psychology.Harmony.MentalState_SocialFighting_PersonalityPatch.AddPersonalityHook
+MinifiedThing.DrawAt: PRE: Hospitality.Harmony.MinifiedThing_Patch+DrawAt.Prefix
+ModContentPack.ToString: PRE: Hospitality.Harmony.ModContentPack_Patch+_ToString.Replacement
+ModsConfig.RestartFromChangedMods: PRE: HugsLib.Patches.ModsConfig_RestartFromChangedMods_Patch.QuickRestartInDevMode
+MouseoverReadout.MouseoverReadoutOnGUI: post: TKKN_NPS.PatchMouseoverReadout.Postfix
+Need.GetTipString: post: Vampire.HarmonyPatches.Vamp_RestTextToolTip
+Need_Outdoors.NeedInterval: TRANS: Psychology.Harmony.Need_OutdoorsPatch.OutdoorsyModifier
+Need_Rest.NeedInterval: post: Vampire.HarmonyPatches.Vamp_SleepyDuringDaylight, Psychology.Harmony.Need_Rest_IntervalDreamPatch.CauseDream, Psychology.Harmony.Need_Rest_IntervalInsomniacPatch.MakeInsomniacLessRestful
+NegativeInteractionUtility.NegativeInteractionChanceFactor: post: TorannMagic.HarmonyPatches+NegativeInteractionChanceFactor_Patch.Postfix, Psychology.Harmony.NegativeInteractionUtility_ChancePatch.NewFormula, TorannMagic.HarmonyPatches+NegativeInteractionChanceFactor_Patch.Postfix
+Page_ConfigureStartingPawns.CanDoNext: post: AlienRace.HarmonyPatches.CanDoNextStartPawnPostfix
+Page_ConfigureStartingPawns.DoWindowContents: post: EdB.PrepareCarefully.HarmonyPatches.DoWindowContentsPostfix
+Page_ConfigureStartingPawns.PreOpen: post: EdB.PrepareCarefully.HarmonyPatches.PreOpenPostfix
+PanelBackstory.DrawPanelContent: post: Psychology.Harmony.Optional.PanelBackstoryPatch.AddPsycheEditButton
+PathFinder.FindPath: PRE: RIMMSqol.pathfinding.PathfindingFix.Prefix
+PathFinder.GetBuildingCost: PRE: FluffyManager.PathFinder_GetBuildingCost.Prefix
+PathGrid.CalculatedCostAt: TRANS: ProjectRimFactory.Common.HarmonyPatches.PathGridPatch.Transpiler
+Pawn.ChangeKind: PRE: AlienRace.HarmonyPatches.ChangeKindPrefix
+Pawn.CheckAcceptArrest: TRANS: Psychology.Harmony.Pawn_ArrestPatch.SwapArrestChance
+Pawn.CurrentlyUsableForBills: post: CompVehicle.HarmonyCompVehicle.CantUseMovingVehicles
+Pawn.Destroy: PRE: Werewolf.HarmonyPatches.WerewolfDestroy post: BadPeople.HarmonyPatches.Patch_RemoveLoadedClassesWhenPawnDies.Postfix
+Pawn.DrawAt: PRE: GiddyUpCore.Harmony.Pawn_DrawAt.Prefix
+Pawn.ExitMap: PRE: CompActivatableEffect.HarmonyCompActivatableEffect.ExitMap_PreFix
+Pawn.ExposeData: post: BadPeople.HarmonyPatches.Patch_PawnAdditionalData.Postfix
+Pawn.GetGizmos: post: AllowTool.Patches.Pawn_GetGizmos_Patch.InsertPartyHuntGizmo, CompActivatableEffect.HarmonyCompActivatableEffect.GetGizmosPrefix, CompSlotLoadable.HarmonyCompSlotLoadable.GetGizmos_PostFix, DraftingPatcher.Pawn_GetGizmos_Patch.AddGizmo, Vampire.HarmonyPatches.GetGizmos_PostFix, TorannMagic.HarmonyPatches+Pawn_GetGizmos_Patch.Postfix, TorannMagic.HarmonyPatches+Pawn_DraftController_GetGizmos_Patch.Postfix, TargetingModes.HarmonyPatches.Postfix_GetGizmos, RunAndGun.Harmony.Pawn_DraftController_GetGizmos_Patch.Postfix, SimpleSidearms.intercepts.Pawn_GetGizmos_Postfix.GetGizmos, TorannMagic.HarmonyPatches+Pawn_GetGizmos_Patch.Postfix, TorannMagic.HarmonyPatches+Pawn_DraftController_GetGizmos_Patch.Postfix
+Pawn.GiveSoldThingToPlayer: PRE: Hospitality.Harmony.Pawn_Patch+GiveSoldThingToPlayer.Prefix
+Pawn.GiveSoldThingToTrader: PRE: Hospitality.Harmony.Pawn_Patch+GiveSoldThingToTrader.Prefix
+Pawn.Kill: PRE: BadPeople.HarmonyPatches.Trigger_Kill.Prefix, Werewolf.HarmonyPatches.WerewolfKill post: Rimatomics.HarmonyPatches+Harmony_Pawn_Kill.Postfix
+Pawn.MakeCorpse: PRE: Vampire.HarmonyPatches.Vamp_MakeCorpse
+Pawn.PostApplyDamage: post: CompSlotLoadable.HarmonyCompSlotLoadable.PostApplyDamage_PostFix
+Pawn.PreTraded: post: BadPeople.HarmonyPatches.Trigger_SellingPrisoner.Postfix, Psychology.Harmony.Pawn_PreTradedPatch.BleedingHeartThought
+Pawn.SetFaction: PRE: Hospitality.Harmony.Pawn_Patch+SetFaction.Prefix post: AlienRace.HarmonyPatches.SetFactionPostfix, BadPeople.HarmonyPatches.Trigger_RefugeeAccepted.Postfix
+Pawn.SpawnSetup: post: TKKN_NPS.PatchSpawnSetupPawn.Postfix
+Pawn.Tick: post: PawnShields.HarmonyPatches.Patch_Pawn_Tick, TKKN_NPS.PatchTickPawn.Postfix
+Pawn.TickRare: post: TKKN_NPS.PatchTickRarePawn.Postfix
+Pawn.TicksPerMove: post: RunAndGun.Harmony.Pawn_TicksPerMove.Postfix, [200]GiddyUpCore.Harmony.Pawn_TicksPerMove.Postfix
+Pawn.TryGetAttackVerb: PRE: AnimalRangeAttack.ARA__VerbCheck_Patch.Prefix, AlphaAnimalRangeAttack.ARA__VerbCheck_Patch.Prefix
+Pawn.VerifyReservations: PRE: Hospitality.Harmony.Pawn_Patch+VerifyReservations.Prefix
+Pawn.get_BodySize: post: Werewolf.HarmonyPatches.WerewolfBodySize, Vampire.HarmonyPatches.VampireBodySize
+Pawn.get_HealthScale: post: Werewolf.HarmonyPatches.WerewolfHealthScale, Vampire.HarmonyPatches.VampireHealthScale
+Pawn.get_IsColonistPlayerControlled: post: CompVehicle.HarmonyCompVehicle.IncludeVehiclesInIsColonistPlayerControlled
+PawnAbility.PostAbilityAttempt: PRE: TorannMagic.HarmonyPatches+PawnAbility_Patch.Prefix, TorannMagic.HarmonyPatches+PawnAbility_Patch.Prefix
+PawnAddictionHediffsGenerator.GenerateAddictionsAndTolerancesFor: PRE: Vampire.HarmonyPatches.GenerateAddictionsAndTolerancesFor_PreFix
+PawnApparelGenerator.GenerateStartingApparelFor: PRE: AlienRace.HarmonyPatches.GenerateStartingApparelForPrefix post: JecsTools.HarmonyPatches.GenerateStartingApparelFor_PostFix, AlienRace.HarmonyPatches.GenerateStartingApparelForPostfix
+PawnApparelGenerator.GenerateWorkingPossibleApparelSetFor: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnBioAndNameGenerator.FillBackstorySlotShuffled: PRE: AlienRace.HarmonyPatches.FillBackstoryInSlotShuffledPrefix
+PawnBioAndNameGenerator.GeneratePawnName: PRE: AlienRace.HarmonyPatches.GeneratePawnNamePrefix
+PawnBioAndNameGenerator.GetBackstoryCategoriesFor: post: TribalRaiders_Code.PawnBioAndNameGenerator_GetBackstoryCategoriesFor.Postfix TRANS: AlienRace.HarmonyPatches.GetBackstoryCategoriesForTranspiler
+PawnBioAndNameGenerator.GiveAppropriateBioAndNameTo: post: AlienRace.HarmonyPatches.GiveAppropriateBioAndNameToPostfix
+PawnBioAndNameGenerator.TryGetRandomUnusedSolidBioFor: post: AlienRace.HarmonyPatches.TryGetRandomUnusedSolidBioForPostfix
+PawnBreathMoteMaker.BreathMoteMakerTick: PRE: Vampire.HarmonyPatches.Vamp_NoBreathingMote
+PawnCapacityUtility.CalculateLimbEfficiency: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnCapacityUtility.CalculateTagEfficiency: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnCapacityWorker_BloodFiltration.CalculateCapacityLevel: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnComponentsUtility.AddAndRemoveDynamicComponents: post: DraftingPatcher.PawnComponentsUtility_AddAndRemoveDynamicComponents_Patch.AddDraftability
+PawnDiedOrDownedThoughtsUtility.AppendThoughts_ForHumanlike: PRE: TorannMagic.HarmonyPatches.AppendThoughts_ForHumanlike_PrefixPatch post: Psychology.Harmony.PawnDiedOrDownedThoughtUtility_AppendThoughtsPatch.AppendPsychologyThoughts
+PawnDiedOrDownedThoughtsUtility.AppendThoughts_Relations: PRE: TorannMagic.HarmonyPatches.AppendThoughts_Relations_PrefixPatch
+PawnDiedOrDownedThoughtsUtility.TryGiveThoughts: PRE: TorannMagic.HarmonyPatches.TryGiveThoughts_PrefixPatch
+PawnDownedWiggler.WigglerTick: PRE: CompVehicle.HarmonyCompVehicle.VehicleShouldWiggle
+PawnGenerator.GenerateBodyType: post: AlienRace.HarmonyPatches.GenerateBodyTypePostfix
+PawnGenerator.GenerateGearFor: post: PawnShields.HarmonyPatches.Patch_PawnGenerator_GenerateGearFor, AlienRace.HarmonyPatches.GenerateGearForPostfix, SimpleSidearms.intercepts.PawnGenerator_GenerateGearFor_Postfix.GenerateGearFor
+PawnGenerator.GenerateInitialHediffs: post: AlienRace.HarmonyPatches.GenerateInitialHediffsPostfix
+PawnGenerator.GeneratePawn: PRE: AlienRace.HarmonyPatches.GeneratePawnPrefix post: JecsTools.HarmonyPatches.Post_GeneratePawn
+PawnGenerator.GeneratePawnRelations: PRE: AlienRace.HarmonyPatches.GeneratePawnRelationsPrefix
+PawnGenerator.GenerateRandomAge: PRE: AlienRace.HarmonyPatches.GenerateRandomAgePrefix
+PawnGenerator.GenerateTraits: PRE: [800]Psychology.Harmony.PawnGenerator_GenerateTraitsPatch.KinseyException, AlienRace.HarmonyPatches.GenerateTraitsPrefix post: TorannMagic.HarmonyPatches+PawnGenerator_Patch.Postfix, Psychology.Harmony.PawnGenerator_GenerateTraitsSiblingsPatch.TaraiSiblings, TorannMagic.HarmonyPatches+PawnGenerator_Patch.Postfix TRANS: AlienRace.HarmonyPatches.GenerateTraitsTranspiler
+PawnGraphicSet.MatsBodyBaseAt: PRE: Vampire.HarmonyPatches.Vamp_MatsBodyBaseAt
+PawnGraphicSet.ResolveAllGraphics: PRE: AlienRace.HarmonyPatches.ResolveAllGraphicsPrefix post: Vampire.HarmonyPatches.Vamp_ResolveAllGraphics
+PawnGraphicSet.ResolveApparelGraphics: PRE: Vampire.HarmonyPatches.Vamp_ResolveApparelGraphics
+PawnGroupKindWorker.GeneratePawns: post: AbilityUser.AbilityUserMod.GeneratePawns_PostFix
+PawnGroupMakerUtility.GeneratePawns: post: JecsTools.HarmonyPatches.GeneratePawns, TargetingModes.HarmonyPatches.Postfix_GeneratePawns
+PawnHairChooser.RandomHairDefFor: PRE: AlienRace.HarmonyPatches.RandomHairDefForPrefix
+PawnNameColorUtility.PawnNameColorOf: PRE: Hospitality.Harmony.PawnNameColorUtility_Patch+PawnNameColorOf.Prefix
+PawnObserver.ObserveSurroundingThings: TRANS: Psychology.Harmony.PawnObserver_ObserveSurroundingPatch.DesensitizeViaCorpse
+PawnRelationDef.GetGenderSpecificLabel: PRE: AlienRace.HarmonyPatches.GetGenderSpecificLabelPrefix
+PawnRelationWorker_Child.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceChildPostfix
+PawnRelationWorker_ExLover.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceExLoverPostfix
+PawnRelationWorker_ExSpouse.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceExSpousePostfix
+PawnRelationWorker_Fiance.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceFiancePostfix
+PawnRelationWorker_Lover.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceLoverPostfix
+PawnRelationWorker_Parent.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceParentPostfix
+PawnRelationWorker_Sibling.GenerateParent: PRE: Psychology.Harmony.PawnRelationWorker_Sibling_GenerateParentPatch.KinseyException
+PawnRelationWorker_Sibling.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceSiblingPostfix
+PawnRelationWorker_Spouse.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceSpousePostfix
+PawnRenderer.BaseHeadOffsetAt: post: AlienRace.HarmonyPatches.BaseHeadOffsetAtPostfix
+PawnRenderer.DrawEquipment: post: Vampire.HarmonyPatches.DrawEquipment_PostFix
+PawnRenderer.DrawEquipmentAiming: PRE: CompInstalledPart.HarmonyCompInstalledPart.DrawEquipmentAiming_PreFix, CompOversizedWeapon.HarmonyCompOversizedWeapon.DrawEquipmentAimingPreFix post: CompActivatableEffect.HarmonyCompActivatableEffect.DrawEquipmentAimingPostFix, CompDeflector.HarmonyCompDeflector.DrawEquipmentAimingPostFix
+PawnRenderer.LayingFacing: TRANS: AlienRace.HarmonyPatches.PostureTranspiler
+PawnRenderer.RenderPawnAt: post: PawnShields.HarmonyPatches.Patch_PawnRenderer_RenderPawnAt TRANS: AlienRace.HarmonyPatches.PostureTranspiler
+PawnRenderer.RenderPawnInternal: PRE: Werewolf.HarmonyPatches.RenderPawnInternal, Vampire.HarmonyPatches.RenderVampire, TKKN_NPS.PatchRenderPawnInternal.Prefix post: TorannMagic.HarmonyPatches.PawnRenderer_Postfix TRANS: AlienRace.HarmonyPatches.RenderPawnInternalTranspiler
+PawnTable.PawnTableOnGUI: PRE: WorkTab.PawnTable_PawnTableOnGUI.Prefix
+PawnTable.RecacheIfDirty: PRE: WorkTab.PawnTable_RecacheIfDirty.Prefix post: WorkTab.PawnTable_RecacheIfDirty.Postfix
+PawnUtility.FertileMateTarget: PRE: Fluffy_BirdsAndBees.PawnUtility_FertileMateTarget.Prefix
+PawnUtility.GainComfortFromCellIfPossible: post: Vampire.HarmonyPatches.Vamp_BedComfort
+PawnUtility.GetAvoidGrid: post: PathAvoid.Patch_PawnUtility_GetAvoidGrid.Postfix
+PawnUtility.IsFighting: post: Arachnophobia.HarmonyPatches.IsFighting_PostFix
+PawnUtility.IsTravelingInTransportPodWorldObject: PRE: TorannMagic.HarmonyPatches+IsTravelingInTransportPodWorldObject_ThirdAgeOverwrite_Patch.Prefix, TorannMagic.HarmonyPatches+IsTravelingInTransportPodWorldObject_ThirdAgeOverwrite_Patch.Prefix post: CompVehicle.HarmonyCompVehicle.PreventAssigningRandomFaction
+PawnUtility.KnownDangerAt: post: Vampire.HarmonyPatches.KnownDangerAt_Vamp
+PawnUtility.Mated: PRE: Fluffy_BirdsAndBees.PawnUtility_Mated.Prefix
+PawnUtility.RecruitDifficulty: PRE: Werewolf.HarmonyPatches.UnrecruitableSworn
+PawnUtility.ShouldSendNotificationAbout: post: Hospitality.Harmony.PawnUtility_Patch+ShouldSendNotificationAbout.Postfix
+PawnWeaponGenerator.Reset: post: SimpleSidearms.intercepts.PawnWeaponGenerator_Reset_Postfix.Reset
+PawnWeaponGenerator.TryGenerateWeaponFor: PRE: AlienRace.HarmonyPatches.TryGenerateWeaponForPrefix post: AlienRace.HarmonyPatches.TryGenerateWeaponForPostfix
+Pawn_AgeTracker.BirthdayBiological: PRE: AlienRace.HarmonyPatches.BirthdayBiologicalPrefix, Vampire.HarmonyPatches.VampireBirthdayBiological
+Pawn_AgeTracker.RecalculateLifeStageIndex: post: AlienRace.HarmonyPatches.RecalculateLifeStageIndexPostfix
+Pawn_ApparelTracker.CanWearWithoutDroppingAnything: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_ApparelTracker.Notify_ApparelAdded: post: AbilityUser.AbilityUserMod.Notify_ApparelAdded_PostFix
+Pawn_ApparelTracker.Notify_ApparelRemoved: post: AbilityUser.AbilityUserMod.Notify_ApparelRemoved_PostFix
+Pawn_ApparelTracker.TryDrop: PRE: Hospitality.Harmony.Pawn_ApparelTracker_Patch+TryDrop.Replacement
+Pawn_ApparelTracker.Wear: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_DraftController.set_Drafted: PRE: CompVehicle.HarmonyCompVehicle.DraftedVehiclesCanMove post: AllowTool.Patches.DraftController_Drafted_Patch.NotifyPawnUndrafted, CompActivatableEffect.HarmonyCompActivatableEffect.set_DraftedPostFix
+Pawn_DrugPolicyTracker.ShouldTryToTakeScheduledNow: PRE: Vampire.HarmonyPatches.VampiresDontHaveDrugSchedules
+Pawn_EquipmentTracker.AddEquipment: post: SimpleSidearms.intercepts.Pawn_EquipmentTracker_AddEquipment_Postfix.AddEquipment
+Pawn_EquipmentTracker.DropAllEquipment: PRE: WhereIsMyWeapon.Patch_Pawn_EquipmentTracker_DropAllEquipment.Prefix, QEthics.HarmonyPatches.Patch_DropAllEquipment
+Pawn_EquipmentTracker.MakeRoomFor: post: PawnShields.HarmonyPatches.Patch_Pawn_EquipmentTracker_MakeRoomFor
+Pawn_EquipmentTracker.Notify_EquipmentAdded: post: AbilityUser.AbilityUserMod.Notify_EquipmentAdded_PostFix
+Pawn_EquipmentTracker.Notify_EquipmentRemoved: post: AbilityUser.AbilityUserMod.Notify_EquipmentRemoved_PostFix
+Pawn_EquipmentTracker.TryDropEquipment: PRE: CompActivatableEffect.HarmonyCompActivatableEffect.TryDropEquipment_PreFix, CompInstalledPart.HarmonyCompInstalledPart.TryDropEquipment_PreFix
+Pawn_GuestTracker.SetGuestStatus: PRE: BadPeople.HarmonyPatches.Trigger_TakePrisoner.Prefix, Hospitality.Harmony.Pawn_GuestTracker_Patch+SetGuestStatus.Prefix
+Pawn_GuestTracker.get_CanBeBroughtFood: post: Vampire.HarmonyPatches.Vamp_WardensDontFeedVamps, Vampire.HarmonyPatches.Vamps_DontWantGuestFood
+Pawn_HealthTracker.CheckForStateChange: PRE: TorannMagic.HarmonyPatches+CheckForStateChange_Patch.Prefix, TorannMagic.HarmonyPatches+CheckForStateChange_Patch.Prefix post: AlienRace.HarmonyPatches.CheckForStateChangePostfix, TorannMagic.HarmonyPatches+CheckForStateChange_Patch.Postfix, TorannMagic.HarmonyPatches+CheckForStateChange_Patch.Postfix
+Pawn_HealthTracker.MakeDowned: PRE: BlueLeakTest.DiesUponDowned.Prefix, WhereIsMyWeapon.Patch_Pawn_HealthTracker_MakeDowned.Prefix post: WhereIsMyWeapon.Patch_Pawn_HealthTracker_MakeDowned.Postfix, GiddyUpCore.Harmony.Pawn_HealthTracker_MakeDowned.Postfix
+Pawn_HealthTracker.MakeUndowned: post: WhereIsMyWeapon.Patch_Pawn_HealthTracker_MakeUndowned.Postfix
+Pawn_HealthTracker.NotifyPlayerOfKilled: PRE: BlueLeakTest.DeadPawnMessageRemoval.Prefix
+Pawn_HealthTracker.PostApplyDamage: post: TorannMagic.HarmonyPatches+PostApplyDamage_Patch.Postfix, TorannMagic.HarmonyPatches+PostApplyDamage_Patch.Postfix
+Pawn_HealthTracker.PreApplyDamage: PRE: JecsTools.HarmonyPatches.PreApplyDamage_PrePatch, PawnShields.HarmonyPatches.Patch_Pawn_HealthTracker_PreApplyDamage, Vampire.HarmonyPatches.VampFortitude, TorannMagic.HarmonyPatches+PreApplyDamage_Patch.Prefix, TorannMagic.HarmonyPatches+PreApplyDamage_Patch.Prefix
+Pawn_HealthTracker.SetDead: post: GiddyUpCore.Harmony.Pawn_HealthTracker_SetDead.Postfix
+Pawn_HealthTracker.ShouldBeDead: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_HealthTracker.ShouldBeDeadFromRequiredCapacity: PRE: QEthics.HarmonyPatches.Patch_ShouldBeDeadFromRequiredCapacity
+Pawn_HealthTracker.ShouldBeDowned: PRE: CompVehicle.HarmonyCompVehicle.VehicleShouldBeDowned
+Pawn_InteractionsTracker.InteractionsTrackerTick: post: TorannMagic.HarmonyPatches+InteractionsTrackerTick_Patch.Postfix, TorannMagic.HarmonyPatches+InteractionsTrackerTick_Patch.Postfix
+Pawn_InteractionsTracker.TryInteractRandomly: PRE: Hospitality.Harmony.Pawn_InteractionsTracker_Patch+TryInteractRandomly.Replacement
+Pawn_InventoryTracker.DropAllNearPawn: PRE: WhereIsMyWeapon.Patch_Pawn_InventoryTracker_DropAllNearPawn.Prefix
+Pawn_InventoryTracker.Notify_ItemRemoved: post: PickUpAndHaul.HarmonyPatches.Pawn_InventoryTracker_PostFix
+Pawn_InventoryTracker.TryAddItemNotForSale: PRE: Vampire.HarmonyPatches.Vamp_BloodItemsDontSpawnForNormies
+Pawn_JobTracker.DetermineNextJob: post: GiddyUpCore.Harmony.Pawn_JobTracker_DetermineNextJob.Postfix
+Pawn_JobTracker.EndCurrentJob: PRE: Psychology.Harmony.Pawn_JobTracker_EndCurrentJobPatch.HeavySleeperTrait
+Pawn_JobTracker.Notify_MasterDraftedOrUndrafted: PRE: GiddyUpCore.Harmony.Pawn_JobTracker_Notify_MasterDraftedOrUndrafted.Prefix
+Pawn_JobTracker.StartJob: PRE: GiddyUpCore.Harmony.Pawn_JobTracker_StartJob.Prefix
+Pawn_MindState.CanStartFleeingBecauseOfPawnAction: post: Arachnophobia.HarmonyPatches.CanStartFleeingBecauseOfPawnAction
+Pawn_MindState.StartManhunterBecauseOfPawnAction: PRE: Arachnophobia.HarmonyPatches.StartManhunterBecauseOfPawnAction_PreFix
+Pawn_NeedsTracker.ShouldHaveNeed: PRE: TorannMagic.HarmonyPatches+Pawn_NeedsTracker_Patch.Prefix, TorannMagic.HarmonyPatches+Pawn_NeedsTracker_Patch.Prefix, Hospitality.Harmony.Pawn_NeedsTracker_Patch+ShouldHaveNeed.Prefix post: Vampire.HarmonyPatches.ShouldHaveNeed_Vamp
+Pawn_Ownership.ClaimBedIfNonMedical: PRE: Vampire.HarmonyPatches.Vamp_BedsForTheUndead
+Pawn_PathFollower.CostToMoveIntoCell: post: Werewolf.HarmonyPatches.PathOfNature
+Pawn_PlayerSettings.GetGizmos: PRE: GiddyUpCore.Harmony.Pawn_PlayerSettings_GetGizmos.Prefix
+Pawn_RelationsTracker.AddDirectRelation: PRE: RIMMSqol.PreventAnimalFamilies_Pawn_RelationsTracker_AddDirectRelation.Prefix
+Pawn_RelationsTracker.CompatibilityWith: post: AlienRace.HarmonyPatches.CompatibilityWithPostfix
+Pawn_RelationsTracker.Notify_RescuedBy: post: Psychology.Harmony.Notify_RescuedBy_BleedingHeartPatch.AddBleedingHeartThought
+Pawn_RelationsTracker.SecondaryLovinChanceFactor: post: Psychology.Harmony.Pawn_RelationsTracker_LovinChancePatch.PsychologyFormula TRANS: AlienRace.HarmonyPatches.SecondaryLovinChanceFactorTranspiler
+Pawn_RotationTracker.Face: PRE: RIMMSqol.performance.pawn_rotationtracker.Pawn_RotationTracker_Face.Prefix
+Pawn_RotationTracker.FaceCell: PRE: RIMMSqol.performance.pawn_rotationtracker.Pawn_RotationTracker_FaceCell.Prefix
+Pawn_RotationTracker.RotationTrackerTick: PRE: CompVehicle.HarmonyCompVehicle.VehicleRotatorTick
+Pawn_RotationTracker.UpdateRotation: PRE: GiddyUpCore.Harmony.Pawn_RotationTracker_UpdateRotation.Prefix
+Pawn_SkillTracker.Learn: PRE: TorannMagic.HarmonyPatches+Pawn_SkillTracker_Base_Patch.Prefix, TorannMagic.HarmonyPatches+Pawn_SkillTracker_Base_Patch.Prefix
+Pawn_StanceTracker.get_Staggered: PRE: TorannMagic.HarmonyPatches.Get_Staggered
+Pawn_StoryTracker.get_SkinColor: PRE: Vampire.HarmonyPatches.get_SkinColor_Vamp post: AlienRace.HarmonyPatches.SkinColorPostfix
+Pawn_StoryTracker.get_TitleShort: post: Psychology.Harmony.Pawn_StoryTracker_MayorLabel.SetMayorLabel
+Pawn_TrainingTracker.TrainingTrackerTickRare: PRE: RIMMSqol.PreventTamenessDecay_Pawn_TrainingTracker_Pawn_TrainingTracker.Prefix post: RIMMSqol.PreventTamenessDecay_Pawn_TrainingTracker_Pawn_TrainingTracker.Postfix
+Pawn_WorkSettings.CacheWorkGiversInOrder: PRE: WorkTab.Pawn_WorkSettings_CacheWorkGiversInOrder.Prefix
+Pawn_WorkSettings.DisableAll: PRE: WorkTab.Pawn_WorkSettings_DisableAll.Prefix
+Pawn_WorkSettings.ExposeData: post: Hospitality.Harmony.Pawn_WorkSettings_Patch+ExposeData.Postfix
+Pawn_WorkSettings.GetPriority: PRE: WorkTab.Pawn_WorkSettings_GetPriority.Prefix
+Pawn_WorkSettings.SetPriority: PRE: WorkTab.Pawn_WorkSettings_SetPriority.Prefix
+PawnsArrivalModeWorker_CenterDrop.TryResolveRaidSpawnCenter: post: Rimatomics.HarmonyPatches+Harmony_CenterDrop_TryResolveRaidSpawnCenter.Postfix
+PawnsArrivalModeWorker_EdgeDrop.TryResolveRaidSpawnCenter: post: Rimatomics.HarmonyPatches+Harmony_EdgeDrop_TryResolveRaidSpawnCenter.Postfix
+PawnsArrivalModeWorker_EdgeDropGroups.TryResolveRaidSpawnCenter: post: Rimatomics.HarmonyPatches+Harmony_EdgeDropGroups_TryResolveRaidSpawnCenter.Postfix
+PawnsArrivalModeWorker_EdgeWalkIn.TryResolveRaidSpawnCenter: post: Rimatomics.HarmonyPatches+Harmony_EdgeWalkIn_TryResolveRaidSpawnCenter.Postfix
+PawnsArrivalModeWorker_EdgeWalkInGroups.TryResolveRaidSpawnCenter: post: Rimatomics.HarmonyPatches+Harmony_EdgeWalkInGroups_TryResolveRaidSpawnCenter.Postfix
+PawnsArrivalModeWorker_RandomDrop.TryResolveRaidSpawnCenter: post: Rimatomics.HarmonyPatches+Harmony_RandomDrop_TryResolveRaidSpawnCenter.Postfix
+PlaceWorker_Conduit.AllowsPlacing: TRANS: Replace_Stuff.OverMineable.FixConduitPlaceWorker.Transpiler
+PlaceWorker_Cooler.AllowsPlacing: PRE: Replace_Stuff.CoolersOverWalls.AllowBuildPlugged.Prefix
+PlaceWorker_Cooler.DrawGhost: TRANS: Replace_Stuff.CoolersOverWalls.WideVentLocationGhost.Transpiler
+Plant.get_Graphic: post: TKKN_NPS.PatchGraphicPlant.Postfix
+PlantProperties.PostLoadSpecial: post: TKKN_NPS.PostLoadSpecialPatch.Postfix
+PlantUtility.CanEverPlantAt: post: TKKN_NPS.HarmonyPatches.Patch_CanEverPlantAt_PlantUtility.Postfix
+PlayDataLoader.DoPlayLoad: post: HugsLib.Patches.PlayDataLoader_Patch.InitModsHook
+PlayLog.Add: post: Bubbles.Patch.Verse_PlayLog_Add.Postfix
+PlaySettings.DoPlaySettingsGlobalControls: post: RenameColony.Mod+RenameColony.AddWidget, Replace_Stuff.OverMineable.PlaySettings_BlueprintOverRockToggle.AddButton, Bubbles.Patch.RimWorld_PlaySettings_DoPlaySettingsGlobalControls.Postfix, HeatMap.PlaySettings_Detour.PostFix
+PossibleApparelSet.GiveToPawn: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Prefs.Apply: post: BadPeople.HarmonyPatches.Patch_ToggleDevMode.Postfix
+PresetLoaderVersion4.LoadPawn: post: Psychology.Harmony.Optional.PresetLoaderPatch.AddPsyche
+PresetSaver.SaveToFile: TRANS: Psychology.Harmony.Optional.PresetSaverPatch.SavePawnRef
+Projectile.CanHit: post: JecsTools.HarmonyPatches.CanHit_PostFix
+Projectile.Launch: PRE: GiddyUpCore.Harmony.Projectile_Launch.Prefix post: Rimatomics.HarmonyPatches+Harmony_Projectile_Launch.Postfix
+RaceProperties.CanEverEat: post: AlienRace.HarmonyPatches.CanEverEat
+RaceProperties.get_IsFlesh: post: ProjectRimFactory.Common.HarmonyPatches.RacePropertiesPatch.Postfix
+ReachabilityUtility.CanReach: PRE: RimFridge.Patch_ReachabilityUtility_CanReach.Prefix post: Vampire.HarmonyPatches.CanReach_Vampire
+RecipeDef.get_AvailableNow: post: Rimatomics.HarmonyPatches+Harmony_RecipeDef_AvailableNow.Postfix
+Recipe_InstallArtificialBodyPart.ApplyOnPawn: PRE: Psychology.Harmony.Recipe_InstallArtificialBodyPart_ApplyPatch.BleedingHeartThought
+Recipe_InstallImplant.ApplyOnPawn: PRE: Psychology.Harmony.Recipe_InstallImplant_ApplyPatch.BleedingHeartThought
+Recipe_InstallNaturalBodyPart.ApplyOnPawn: PRE: Psychology.Harmony.Recipe_InstallNaturalBodyPart_ApplyPatch.BleedingHeartThought
+Recipe_Surgery.CheckSurgeryFail: PRE: TorannMagic.HarmonyPatches+CheckSurgeryFail_Base_Patch.Prefix, TorannMagic.HarmonyPatches+CheckSurgeryFail_Base_Patch.Prefix post: BadPeople.HarmonyPatches.Patch_Trigger_DoctorRemovedBodypart.Postfix, Psychology.Harmony.Recipe_Surgery_FailPatch.BleedingHeartThought
+RecordsUtility.Notify_BillDone: post: Psychology.Harmony.RecordsUtility_BillDonePatch.BleedingHeartThought
+ResearchManager.FinishProject: PRE: ResearchPal.HarmonyPatches_Queue+DoCompletionDialog.Prefix
+ResearchManager.ResearchPerformed: PRE: ResearchPal.HarmonyPatches_Queue+ResearchPerformed.Prefix post: ResearchPal.HarmonyPatches_Queue+ResearchPerformed.Postfix
+ReservationManager.CanReserve: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.CanReserveStack: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.FirstRespectedReserver: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.IsReservedAndRespected: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.IsReservedByAnyoneOf: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.LogCouldNotReserveError: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix, Hospitality.Harmony.ReservationManager_Patch+LogCouldNotReserveError.Prefix
+ReservationManager.Release: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.Reserve: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReservedBy: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReservedBy: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+RestUtility.CanUseBedEver: post: AlienRace.HarmonyPatches.CanUseBedEverPostfix, Hospitality.Harmony.RestUtility_Patch+CanUseBedEver.Postfix
+RestUtility.FindBedFor: post: CompVehicle.HarmonyCompVehicle.DontRescueVehicles
+RestUtility.IsValidBedFor: post: Vampire.HarmonyPatches.Vamp_IsValidBedFor
+ReverseDesignatorDatabase.InitDesignators: post: AllowTool.Patches.ReverseDesignatorDatabase_Init_Patch.InjectReverseDesignators
+RoofGrid.GetCellExtraColor: TRANS: ExpandedRoofing.RoofGridCellBoolGiver.RoofGridExtraColorDetour
+RoofGrid.SetRoof: PRE: ExpandedRoofing.HarmonyPatches.RoofLeavings TRANS: ExpandedRoofing.RoofMaintenance_Patches.SetRoofTranspiler
+RoofGrid.get_Color: PRE: ExpandedRoofing.RoofGridCellBoolGiver.RoofGridColorDetour
+Room.MakeNew: post: LabelsOnFloor.Room_MakeNew_Patch.Postfix
+Room.Notify_BedTypeChanged: post: LabelsOnFloor.Room_Notify_BedTypeChanged_Patch.Postfix
+Room.Notify_RoomShapeOrContainedBedsChanged: post: LabelsOnFloor.Room_Notify_RoomShapeOrContainedBedsChanged_Patch.Postfix
+Room.RemoveRegion: post: LabelsOnFloor.Room_RemoveRegion_Patch.Postfix
+Root.Update: post: HugsLib.Patches.Root_Patch.UpdateHook
+Root_Play.SetupForQuickTestPlay: TRANS: HugsLib.Patches.RootPlay_TestPlay_Patch.InjectCustomQuickstartSettings
+SappersUtility.CanMineReasonablyFast: PRE: MoreMechanoids.Harmony.SappersUtility_Patch+CanMineReasonablyFast.Prefix
+SappersUtility.HasBuildingDestroyerWeapon: PRE: MoreMechanoids.Harmony.SappersUtility_Patch+HasBuildingDestroyerWeapon.Prefix
+SaveRecordPawnV4.ExposeData: post: Psychology.Harmony.Optional.SaveRecordPawnV4Patch.ExposePsycheData
+Scenario.Notify_NewPawnGenerating: post: Vampire.HarmonyPatches.Vamp_NewPawnGenerating
+Scenario.Notify_PawnGenerated: post: Werewolf.HarmonyPatches.AddRecentWerewolves, Vampire.HarmonyPatches.Vamp_DontGenerateVampsInDaylight
+SectionLayer.ClearSubMeshes: post: ShipsHaveInsides.Mod.GenerateSpaceSubMesh.GenerateMesh
+SectionLayer.DrawLayer: PRE: ShipsHaveInsides.Mod.HideLightingLayersInSpace.ShouldDraw post: ShipsHaveInsides.Mod.HideLightingLayersInSpace.Cleanup
+SectionLayer_LightingOverlay.Regenerate: TRANS: ExpandedRoofing.HarmonyPatches.TransparentRoofLightingOverlayFix
+SelfDefenseUtility.ShouldFleeFrom: PRE: GiddyUpCore.Harmony.SelfDefenceUtility_ShouldFleeFrom.Prefix
+SettlementAbandonUtility.Abandon: PRE: RIMMSqol.SpawnRemnantColony.Prefix
+SettlementAbandonUtility.TryAbandonViaInterface: PRE: RIMMSqol.DisplayConfirmationDialog.Prefix
+SettlementBase.GetCaravanGizmos: post: MoreFactionInteraction.HarmonyPatches.SettlementBase_CaravanGizmos_Postfix
+SettlementBase.ShouldRemoveMapNow: post: Rimatomics.HarmonyPatches+Harmony_SettlementBase_ShouldRemoveMapNow.Postfix
+ShieldBelt.DrawWornExtras: PRE: GiddyUpCore.Harmony.ShieldBelt_DrawWornExtras.Prefix
+ShipCountdown.CountdownEnded: PRE: ShipsHaveInsides.Mod.SaveShip.SaveShipAndRemoveItemStacks
+ShipCountdown.InitiateCountdown: PRE: ShipsHaveInsides.Mod.InitShipRefs.SaveStatics
+ShipUtility.LaunchFailReasons: PRE: ShipsHaveInsides.Mod.FindLaunchFailReasons.DisableOriginalMethod post: ShipsHaveInsides.Mod.FindLaunchFailReasons.FindLaunchFailReasonsReally
+ShipUtility.ShipBuildingsAttachedTo: PRE: ShipsHaveInsides.Mod.FindAllTheShipParts.DisableOriginalMethod post: ShipsHaveInsides.Mod.FindAllTheShipParts.FindShipPartsReally
+ShortCircuitUtility.DoShortCircuit: PRE: RT_Fuse.Patch_DoShortCircuit.Prefix
+ShortHashGiver.GiveShortHash: PRE: AbilityUser.AbilityUserMod.GiveShortHash_PrePatch
+ShotReport.HitFactorFromShooter: post: TargetingModes.HarmonyPatches.Postfix_HitFactorFromShooter
+ShotReport.HitReportFor: PRE: TorannMagic.HarmonyPatches+ShotReport_Patch.Prefix, TorannMagic.HarmonyPatches+ShotReport_Patch.Prefix
+SickPawnVisitUtility.CanVisit: PRE: Vampire.HarmonyPatches.Vamp_CanVisit
+Site.ShouldRemoveMapNow: post: Rimatomics.HarmonyPatches+Harmony_Site_ShouldRemoveMapNow.Postfix
+SituationalThoughtHandler.TryCreateThought: PRE: AlienRace.HarmonyPatches.TryCreateSituationalThoughtPrefix
+SkillRecord.Interval: PRE: RIMMSqol.StopSkillDecay.Prefix
+SkillRecord.Learn: PRE: TorannMagic.HarmonyPatches+SkillRecord_Patch.Prefix, RIMMSqol.TrackLevelUp.Prefix, TorannMagic.HarmonyPatches+SkillRecord_Patch.Prefix post: Vampire.HarmonyPatches.Learn_PostFix, RIMMSqol.TrackLevelUp.Postfix
+SkillRecord.get_Level: post: Vampire.HarmonyPatches.VampLevel
+SocialCardUtility.GetPawnSituationLabel: PRE: Hospitality.Harmony.SocialCardUtility_Patch+GetPawnSituationLabel.Replacement
+SocialCardUtility.Recache: PRE: CompVehicle.HarmonyCompVehicle.SocialTabNullHandling
+Stance_Warmup.StanceTick: post: SimpleSidearms.intercepts.Stance_Warmup_StanceTick_Postfix.StanceTick
+StartingPawnUtility.NewGeneratedStartingPawn: PRE: AlienRace.HarmonyPatches.NewGeneratedStartingPawnPrefix
+StatExtension.GetStatValue: post: CompSlotLoadable.HarmonyCompSlotLoadable.GetStatValue_PostFix
+StatPart_Glow.FactorFromGlow: post: Vampire.HarmonyPatches.VampiresAlwaysWorkHard
+StatPart_NaturalNotMissingBodyPartsCoverage.<TryGetValue>m__0: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+StatWorker.GetExplanationUnfinalized: TRANS: PawnShields.HarmonyPatches.Transpiler_StatWorker_GetExplanationUnfinalized
+StatWorker.GetValueUnfinalized: post: PawnShields.HarmonyPatches.Patch_StatWorker_GetValueUnfinalized
+StatWorker.StatOffsetFromGear: post: CompSlotLoadable.HarmonyCompSlotLoadable.StatOffsetFromGear_PostFix
+StockGenerator_Animals.HandlesThingDef: PRE: TorannMagic.HarmonyPatches+StockGenerator_Animals_Patch.Prefix, TorannMagic.HarmonyPatches+StockGenerator_Animals_Patch.Prefix
+StorageSettings.ExposeData: post: RSA.StorageSettings_ExposeData.ExposeData
+StoreUtility.NoStorageBlockersIn: post: RSA.StoreUtility_NoStorageBlockersIn.FilledEnough
+StoryState.Notify_IncidentFired: post: MoreFactionInteraction.HarmonyPatches.IncidentFired_TradeCounter_Postfix
+SymbolResolver_RandomMechanoidGroup.<Resolve>m__0: post: CompVehicle.HarmonyCompVehicle.MechanoidsFixerAncient
+TaleRecorder.RecordTale: PRE: RIMMSqol.PreventAnimalFamilies_TaleRecorder_RecordTale.Prefix
+Targeter.ConfirmStillValid: PRE: AbilityUser.AbilityUserMod.ConfirmStillValid
+Targeter.ProcessInputEvents: PRE: AbilityUser.AbilityUserMod.ProcessInputEvents_PreFix
+Targeter.TargeterUpdate: PRE: Rimatomics.HarmonyPatches+Harmony_Targeter_TargeterUpdate.Prefix post: AbilityUser.AbilityUserMod.TargeterUpdate_PostFix
+TargetingModesUtility.CanUseTargetingModes: PRE: TargetingModes.HarmonyPatches.Prefix_CanUseTargetingModes post: TargetingModes.HarmonyPatches.Postfix_CanUseTargetingModes
+TendUtility.DoTend: post: Psychology.Harmony.TendUtility_TendPatch.BleedingHeartThought
+TerrainGrid.SetTerrain: TRANS: SimplyMoreBridges.Harmony_TerrainGrid_SetTerrain.Transpiler
+Thing.ButcherProducts: post: NewAlphaAnimalSubproducts.Thing_ButcherProducts_Patch.ChangeMeatAmountByAge
+Thing.Ingested: post: BadPeople.HarmonyPatches.Patch_CannibalTick.Postfix
+Thing.Notify_ColorChanged: post: Replace_Stuff.Virtualize_Notify_ColorChanged.Postfix
+Thing.SetFactionDirect: post: AlienRace.HarmonyPatches.SetFactionDirectPostfix
+Thing.TakeDamage: PRE: CompDeflector.HarmonyCompDeflector.TakeDamage_PreFix
+Thing.get_AmbientTemperature: post: TKKN_NPS.PatchAmbientTemperature.Postfix
+Thing.get_DefaultGraphic: post: CompOversizedWeapon.HarmonyCompOversizedWeapon.get_Graphic_PostFix TRANS: Replace_Stuff.OverMineable.ShowBluePrintOverFogDynamic.Transpiler
+Thing.get_MarketValue: post: DeepRim.HarmonyPatches.MarketValuePostfix
+Thing.set_Position: PRE: ProjectRimFactory.Common.HarmonyPatches.SetPositionPatch.Prefix post: ProjectRimFactory.Common.HarmonyPatches.SetPositionPatch.Postfix
+ThingDef.get_AllRecipes: post: Vampire.HarmonyPatches.get_AllRecipes_BloodFeedable
+ThingDef.get_VolumePerUnit: post: ProjectRimFactory.Common.HarmonyPatches.VolumePerUnitPatch.Postfix
+ThingDefGenerator_Buildings.NewFrameDef_Thing: post: Replace_Stuff.OverMineable.FramesArentEdifices.Postfix
+ThingFilterUI.DoThingFilterConfigWindow: PRE: StorageSearch.HaulingHysteresis_InjectControls.Before_DoThingFilterConfigWindow TRANS: RSA.Core.FilterSearch_InjectSearchBox.Transpiler
+ThingOwnerUtility.ContentsSuspended: PRE: BioReactor.ThingOwnerUtilityPatches.Prefix_ContentsSuspended
+ThingSelectionUtility.SelectableByMapClick: PRE: Replace_Stuff.OverMineable.FoggedSelectable.Prefix
+ThingSetMaker.Generate: post: MoreFactionInteraction.HarmonyPatches.TraderStocker_OverStockerPostFix
+ThingSetMaker_ResourcePod.PossiblePodContentsDefs: post: Rimatomics.HarmonyPatches+Harmony_PossiblePodContentsDefs.Postfix
+ThingWithComps.DeSpawn: PRE: Rimatomics.HarmonyPatches+Harmony_Projectile_DeSpawn.Prefix
+ThingWithComps.GetFloatMenuOptions: post: AllowTool.Patches.Thing_GetFloatMenuOptions_Patch.FinishOffWhenDrafted, Vampire.HarmonyPatches.GetFloatMenuOptions_VampBed
+ThingWithComps.InitializeComps: post: AbilityUser.AbilityUserMod.InitializeComps_PostFix, Werewolf.HarmonyPatches.InitializeWWComps
+ThinkNode_ConditionalColonist.Satisfied: post: CompVehicle.HarmonyCompVehicle.Satisfied_PostFix
+ThinkNode_ConditionalNeedPercentageAbove.Satisfied: PRE: Vampire.HarmonyPatches.Satisfied_Vamp
+ThoughtUtility.CanGetThought: post: AlienRace.HarmonyPatches.CanGetThoughtPostfix
+ThoughtUtility.GiveThoughtsForPawnExecuted: post: Psychology.Harmony.ThoughtUtility_ExecutedPatch.BleedingHeartThoughts
+ThoughtUtility.GiveThoughtsForPawnOrganHarvested: post: Psychology.Harmony.ThoughtUtility_OrganHarvestedPatch.BleedingHeartThoughts
+ThoughtWorker_AlwaysActive.CurrentStateInternal: post: Psychology.Harmony.ThoughtWorker_AlwaysActivePatch.AlwaysActiveDepression
+ThoughtWorker_AnnoyingVoice.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_AnnoyingVoicePatch.Disable
+ThoughtWorker_ChemicalInterestVsTeetotaler.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_ChemicalInterestVsTeetotalerPatch.Disable
+ThoughtWorker_Cold.CurrentStateInternal: post: Vampire.HarmonyPatches.Vamp_IgnoreHotAndCold
+ThoughtWorker_CreepyBreathing.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_CreepyBreathingPatch.Disable
+ThoughtWorker_Dark.CurrentStateInternal: post: Vampire.HarmonyPatches.Vamp_TheyDontDislikeDarkness
+ThoughtWorker_Disfigured.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_DisfiguredPatch.Disable
+ThoughtWorker_HardWorkerVsLazy.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_HardWorkerVsLazyPatch.Disable
+ThoughtWorker_Hediff.CurrentStateInternal: post: Psychology.Harmony.ThoughtWorker_HediffPsychology.MethadoneHigh
+ThoughtWorker_Hot.CurrentStateInternal: post: Vampire.HarmonyPatches.Vamp_IgnoreHotAndCold
+ThoughtWorker_NeedOutdoors.CurrentStateInternal: post: Vampire.HarmonyPatches.Vamp_NoCabinFever
+ThoughtWorker_Pretty.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_PrettyPatch.Disable
+ThoughtWorker_PrisonBarracksImpressiveness.CurrentStateInternal: PRE: Hospitality.Harmony.ThoughtWorker_Patch+PrisonBarracksImpressiveness.CurrentStateInternal
+ThoughtWorker_PrisonCellImpressiveness.CurrentStateInternal: PRE: Hospitality.Harmony.ThoughtWorker_Patch+PrisonCellImpressiveness.CurrentStateInternal
+ThoughtWorker_TeetotalerVsChemicalInterest.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_TeetotalerVsChemicalInterestPatch.Disable
+ThoughtWorker_Ugly.CurrentSocialStateInternal: post: Psychology.Harmony.ThoughtWorker_UglyPatch.Disable
+ThoughtWorker_WantToSleepWithSpouseOrLover.CurrentStateInternal: PRE: Vampire.HarmonyPatches.Vamp_FineSleepingAlone
+TickManager.DebugSetTicksGame: post: Werewolf.HarmonyPatches.MoonTicksUpdate
+TileFinder.RandomSettlementTileFor: PRE: FactionControl.TileFinder_RandomFactionBaseTileFor.Prefix
+Toils_Haul.PlaceHauledThingInCell: post: AllowTool.Patches.ToilsHaul_PlaceInCell_Patch.ClearHaulUrgently
+Toils_LayDown.ApplyBedThoughts: PRE: Hospitality.Harmony.Toils_LayDown_Patch+ApplyBedThoughts.Replacement post: Vampire.HarmonyPatches.Vamp_ApplyBedThoughts
+Toils_LayDown.LayDown: post: QEthics.HarmonyPatches.Patch_LayDown
+TouchPathEndModeUtility.IsCornerTouchAllowed: PRE: Replace_Stuff.OverMineable.CornerBuildable.Prefix
+TouchPathEndModeUtility.MakesOccupiedCellsAlwaysReachableDiagonally: PRE: Replace_Stuff.OverMineable.ConrnerMineableOkay.Prefix
+TradeShip.ColonyThingsWillingToBuy: post: RimFridge.Patch_PassingShip_TryOpenComms.Postfix
+Tradeable.InitPriceDataIfNeeded: TRANS: MoreFactionInteraction.HarmonyPatches.ErrorSuppressionSssh
+TraderCaravanUtility.GetTraderCaravanRole: TRANS: AlienRace.HarmonyPatches.GetTraderCaravanRoleTranspiler
+TraderKindDef.PriceTypeFor: post: MoreFactionInteraction.HarmonyPatches.PriceTypeSetter_PostFix
+TraitSet.GainTrait: PRE: AlienRace.HarmonyPatches.GainTraitPrefix, Psychology.Harmony.TraitSet_GainTraitPatch.KinseyException
+TransitionAction_EnsureHaveExitDestination.DoAction: PRE: Hospitality.Harmony.TransitionAction_EnsureHaveExitDestination_Patch+DoAction.Prefix
+TransitionAction_SetDefendLocalGroup.DoAction: PRE: Hospitality.Harmony.TransitionAction_SetDefendLocalGroup_Patch+DoAction.Prefix
+Trigger_UrgentlyHungry.ActivateOn: PRE: Vampire.HarmonyPatches.ActivateOn_Vampire
+UIRoot.UIRootOnGUI: post: HugsLib.Patches.UIRoot_Patch.OnGUIHook
+UIRoot_Entry.Init: post: RealRuins.RealRuins+UIRoot_Entry_Init_Patch.Postfix
+Verb.CanHitCellFromCellIgnoringRange: PRE: JecsTools.HarmonyPatches.CanHitCellFromCellIgnoringRange_Prefix
+Verb.TryCastNextBurstShot: PRE: RunAndGun.Harmony.Verb_TryCastNextBurstShot.Prefix
+Verb.TryFindShootLineFromTo: PRE: TorannMagic.HarmonyPatches+TryFindShootLineFromTo_Base_Patch.Prefix, TorannMagic.HarmonyPatches+TryFindShootLineFromTo_Base_Patch.Prefix
+Verb.TryStartCastOn: PRE: CompActivatableEffect.HarmonyCompActivatableEffect.TryStartCastOnPrefix, RunAndGun.Harmony.Verb_TryStartCastOn.Prefix
+Verb.get_DirectOwner: PRE: AbilityUser.AbilityUserMod.get_DirectOwner_Prefix
+Verb.get_UIIcon: PRE: AbilityUser.AbilityUserMod.get_UIIcon
+VerbProperties.AdjustedAccuracy: post: GiddyUpCore.Harmony.VerbProperties_AdjustedAccuracy.Postfix, RunAndGun.Harmony.VerbProperties_AdjustedAccuracy.Postfix
+VerbTracker.GetVerbsCommands: PRE: CompVehicle.HarmonyCompVehicle.GetVerbsCommands_PreFix
+Verb_LaunchProjectile.get_Projectile: PRE: AbilityUser.AbilityUserMod.get_Projectile_Prefix
+Verb_MeleeAttack.GetNonMissChance: post: TargetingModes.HarmonyPatches.Postfix_GetNonMissChance
+Verb_MeleeAttack.SoundHitBuilding: post: CompExtraSounds.HarmonyCompExtraSounds.SoundHitBuildingPrefix
+Verb_MeleeAttack.SoundHitPawn: PRE: Werewolf.HarmonyPatches.SoundHitPawnPrefix post: CompExtraSounds.HarmonyCompExtraSounds.SoundHitPawnPrefix
+Verb_MeleeAttack.SoundMiss: PRE: Werewolf.HarmonyPatches.SoundMiss_Prefix post: CompExtraSounds.HarmonyCompExtraSounds.SoundMissPrefix
+Verb_MeleeAttack.TryCastShot: PRE: Vampire.HarmonyPatches.Vamp_TryCastShot post: SimpleSidearms.intercepts.Verb_MeleeAttack_TryCastShot_PostFix.TryCastShot
+Verb_MeleeAttackDamage.DamageInfosToApply: post: CompSlotLoadable.HarmonyCompSlotLoadable.DamageInfosToApply_PostFix, AlienRace.HarmonyPatches.DamageInfosToApplyPostfix
+Verb_Shoot.TryCastShot: PRE: CompVehicle.HarmonyCompVehicle.CanVehicleShoot, Vampire.HarmonyPatches.Vamp_TryCastShot
+Verb_ShootOneUse.SelfConsume: post: SimpleSidearms.intercepts.Verb_ShootOneUse_SelfConsume_Postfix.SelfConsume
+VoluntarilyJoinableLordsStarter.Tick_TryStartParty: PRE: Psychology.Harmony.VoluntarilyJoinableLordsStarter_StartPartyPatch.ExtraSocialiteParties
+WITab_Caravan_Gear.TryEquipDraggedItem: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+WITab_Caravan_Health.DoRow: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Widgets.TextFieldNumeric: PRE: RIMMSqol.ReplaceNumericTextboxesInt.Prefix
+Widgets.TextFieldNumeric: PRE: RIMMSqol.ReplaceNumericTextboxesFloat.Prefix
+WorkGiver_BuildRoof.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_ClearSnow.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_ConstructAffectFloor.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_ConstructDeliverResources.InstallJob: TRANS: MinifyEverything.MinifyEverything.InstallJobTranspiler
+WorkGiver_ConstructDeliverResources.IsNewValidNearbyNeeder: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+WorkGiver_ConstructDeliverResourcesToBlueprints.JobOnThing: PRE: MinifyEverything.MinifyEverything.JobOnThingPrefix
+WorkGiver_ConstructRemoveFloor.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_ConstructSmoothWall.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_DoBill.JobOnThing: post: TorannMagic.HarmonyPatches+RegrowthSurgery_WorkGiver_Patch.Postfix, TorannMagic.HarmonyPatches+RegrowthSurgery_WorkGiver_Patch.Postfix
+WorkGiver_DoBill.TryFindBestBillIngredients: PRE: RIMMSqol.performance.workgiver_dobill.WorkGiver_DoBill_TryFindBestBillIngredients.Prefix
+WorkGiver_DoBill.TryFindBestBillIngredientsInSet_AllowMix: PRE: RIMMSqol.WorkGiver_DoBill_TryFindBestBillIngredientsInSet_AllowMix.Prefix
+WorkGiver_GrowerHarvest.HasJobOnCell: post: AlienRace.HarmonyPatches.HasJobOnCellHarvestPostfix, Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_GrowerSow.ExtraRequirements: post: AlienRace.HarmonyPatches.ExtraRequirementsGrowerSowPostfix
+WorkGiver_InteractAnimal.CanInteractWithAnimal: post: AlienRace.HarmonyPatches.CanInteractWithAnimalPostfix
+WorkGiver_PerformRoofMaintenance.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_RemoveRoof.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_Researcher.ShouldSkip: PRE: TorannMagic.HarmonyPatches+WorkGiver_Researcher_Patch.Prefix, TorannMagic.HarmonyPatches+WorkGiver_Researcher_Patch.Prefix post: AlienRace.HarmonyPatches.ShouldSkipResearchPostfix
+WorkGiver_Scanner.HasJobOnCell: post: Vampire.HarmonyPatches.Vamp_HasJobOnCell
+WorkGiver_Tend.HasJobOnThing: post: TorannMagic.HarmonyPatches+WorkGiver_Tend_Patch.Postfix, TorannMagic.HarmonyPatches+WorkGiver_Tend_Patch.Postfix
+WorldPawnGC.LogDotgraph: PRE: RIMMSqol.performance.worldpawngc.WorldPawnGC_LogDotgraph.Prefix
+WorldPawnGC.PawnGCDebugResults: PRE: RIMMSqol.performance.worldpawngc.WorldPawnGC_PawnGCDebugResults.Prefix
+WorldPawnGC.RunGC: PRE: RIMMSqol.performance.worldpawngc.WorldPawnGC_RunGC.Prefix
+WorldPawnGC.WorldPawnGCTick: PRE: RIMMSqol.performance.worldpawngc.WorldPawnGC_WorldPawnGCTick.Prefix
+WorldReachabilityUtility.CanReach: post: MoreFactionInteraction.HarmonyPatches.WorldReachUtility_PostFix
+WorldSelector.AutoOrderToTileNow: post: JecsTools.HarmonyCaravanPatches.AutoOrderToTileNow_Jobs
+WorldSelector.SelectableObjectsUnderMouse: post: JecsTools.HarmonyCaravanPatches.SelectableObjectsUnderMouse_InvisHandler
+X2_JobGiver_LeaveLord.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+X2_JobGiver_RechargeEnergy.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+X2_JobGiver_RepairDamagedRobot.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+X2_JobGiver_Return2BaseDespawn.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+X2_JobGiver_Work_old.TryGiveJob: post: Vampire.HarmonyPatches.TryGiveJob_VampireGeneral
+Zone.AddCell: post: LabelsOnFloor.Zone_AddCell_Patch.Postfix
+Zone.RemoveCell: post: LabelsOnFloor.Zone_RemoveCell_Patch.Postfix
+ZoneManager.DeregisterZone: post: LabelsOnFloor.ZoneManager_DeregisterZone_Patch.Postfix
+ZoneManager.RegisterZone: post: LabelsOnFloor.ZoneManager_RegisterZone_Patch.Postfix
+Zone_Growing.SetPlantDefToGrow: post: LabelsOnFloor.Zone_Growing_SetPlantDefToGrow_Patch.Postfix
+Harmony versions present: 1.2.0.2: rimworld.erdelf.alien_race.main, chjees.QEthics; 1.2.0.1: UnlimitedHugs.HugsLib, rimworld.whyisthat.expandedroofing.main, Dubwise.Rimatomics, HugsLib.AllowTool, com.geneticrim, rimworld.torann.tmagic, XeoNovaDan.TargetingModes, HugsLib.RunAndGun, HugsLib.SimpleSidearms, HugsLib.ARimWorldOfMagic, Fluffy.BirdsAndBees, fluffy.medicaltab, fluffy.worktab, HugsLib.Psychology, fluffy.colonymanager, com.rimworld.mod.factioncontrol, net.rainbeau.rimworld.mod.tribalraiders, com.rimworld.modcheck, dusty.rimworld.renamecolony, Uuugggg.rimworld.Replace_Stuff.main, Bubbles, HugsLib.HeatMap, HugsLib.ShipInteriorMod, rimworld.ResearchPal, net.rainbeau.rimworld.mod.scenarios, io.github.ratysz.madskills, RSA, RSA.Core, com.BioReactor.rimworld.mod, mehni.rimworld.pickupandhaul.main, HugsLib.Hospitality, HugsLib.GiddyUpCore, rimworld.rwmods.androidtiers, com.tammybee.whereismyweapon, com.github.restive2k12.rimworld.mod.moodbar, com.deeprim.rimworld.mod, rimworld.whyisthat.expandedroofing.fixbuildorder, rimworld.whyisthat.expandedroofing.roofmaintenance, rimworld.whyisthat.expandedroofing.roofgridcellboolgiver, com.github.rimworld.mod.AnimalRangeAttack, com.github.rimworld.mod.AlphaAnimalRangeAttack, Mehni.RimWorld.MFI.main, rimworld.psychology.prepare_carefully_patch, com.woolstrand.realruins, com.rimfridge.rimworld.mod, RIMMSqol, com.pathavoid.rimworld.mod, com.alphaanimals, HugsLib.LabelsOnFloor, HugsLib.MoreMechanoids, HugsLib.Autopsy; 1.1.0.0: rimworld.lanilor.simplymorebridges, com.spdskatr.projectrimfactory, EdB.PrepareCarefully; 1.0.9.1: rimworld.jecrell.abilityuser, rimworld.jecrell.werewolves, rimworld.jecrell.comps.vehicle, rimworld.jecrell.comps.activator, rimworld.jecrell.comps.slotloadable, rimworld.jecrell.vampire, venner.io.fuckfriendlyfire, rimworld.jecrell.jecstools.main, rimworld.jecrell.comps.oversized, rimworld.jecrell.caravanjobs, chjees.shields, rimworld.jecrell.arachnophobia, rimworld.jecrell.humanlikeorders, rimworld.jecrell.comps.installedpart, rimworld.jecrell.comps.deflector, rimworld.jecrell.comps.sounds, com.github.tkkntkkn.Natures-Pretty-Sweet, Harmony_BadPeople, mehni.rimworld.FoodAlert.main, Harmony_Locks, rimworld.erdelf.minify_everything
+
+Platform information: (hidden, hold Shift while publishing to include)
+
+Log file contents:
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: [Renderer information redacted]
+Begin MonoManager ReloadAssembly
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\NAudio.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\NVorbis.dll into Unity Child Domain
+Loading [Rimworld_dir]\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+RimWorld 1.0.2059 rev1005
+
+Mod ED-LaserDrill-1.0_Update has incorrectly formatted target version 'Unknown'. For the current version, write: <targetVersion>1.0.2059</targetVersion>
+
+Mod Incidents has incorrectly formatted target version 'Unknown'. For the current version, write: <targetVersion>1.0.2059</targetVersion>
+
+Mod ProjectRimFactory has incorrectly formatted target version 'Unknown'. For the current version, write: <targetVersion>1.0.2059</targetVersion>
+
+[RuntimeGC] Mod settings loaded.
+
+Rimatomics 1.6.614
+
+Moody settings loaded
+
+Tried to use an uninitialized DefOf of type SoundDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead)
+
+Tried to use an uninitialized DefOf of type KeyBindingDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead)
+
+[RenameColony] Postfixed
+
+RSA Core loaded...
+
+RSA Main injected ...
+
+Giddy-up! Core has been detected, enjoy using it with Megafauna!
+
+XML error: Duplicate XML node name comps in this XML block: <ThingDef ParentName="AnimalThingBase"><defName>Thrumbo</defName><label>thrumbo</label><description>A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</description><statBases><MoveSpeed>5.5</MoveSpeed><MarketValue>4000</MarketValue><ComfyTemperatureMin>-65</ComfyTemperatureMin><ComfyTemperatureMax>50</ComfyTemperatureMax><ArmorRating_Sharp>0.60</ArmorRating_Sharp><ArmorRating_Blunt>0.40</ArmorRating_Blunt><ArmorRating_Heat>0.30</ArmorRating_Heat><Flammability>0.5</Flammability></statBases><tools><li><label>horn</label><capacities><li>Scratch</li><li>Stab</li></capacities><power>23</power><cooldownTime>2</cooldownTime><linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup></li><li><capacities><li>Bite</li></capacities><power>28</power><cooldownTime>2.6</cooldownTime><linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup><chanceFactor>0.7</chanceFactor></li><li><label>left foot</label><capacities><li>Blunt</li></capacities><power>19</power><cooldownTime>2</cooldownTime><linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup></li><li><label>right foot</label><capacities><li>Blunt</li></capacities><power>19</power><cooldownTime>2</cooldownTime><linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup></li><li><label>head</label><capacities><li>Blunt</li></capacities><power>17</power><cooldownTime>2</cooldownTime><linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup><ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable><chanceFactor>0.2</chanceFactor></li></tools><race><body>QuadrupedAnimalWithHoovesAndHorn</body><herdMigrationAllowed>false</herdMigrationAllowed><baseBodySize>7</baseBodySize><baseHungerRate>3.5</baseHungerRate><baseHealthScale>8.0</baseHealthScale><foodType>VegetarianRoughAnimal, DendrovoreAnimal</foodType><leatherDef>Leather_Thrumbo</leatherDef><trainability>Advanced</trainability><gestationPeriodDays>60</gestationPeriodDays><manhunterOnDamageChance>1.00</manhunterOnDamageChance><wildness>0.9</wildness><lifeExpectancy>220</lifeExpectancy><lifeStageAges><li><def>AnimalBaby</def><minAge>0</minAge></li><li><def>AnimalJuvenile</def><minAge>2.0</minAge></li><li><def>AnimalAdult</def><minAge>4.0</minAge><soundCall>Pawn_Thrumbo_Call</soundCall><soundAngry>Pawn_Thrumbo_Angry</soundAngry><soundWounded>Pawn_Thrumbo_Pain</soundWounded><soundDeath>Pawn_Thrumbo_Death</soundDeath></li></lifeStageAges><soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn><soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding><soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss><packAnimal>true</packAnimal><nameOnTameChance>1</nameOnTameChance><nuzzleMtbHours>80</nuzzleMtbHours><nameOnNuzzleChance>1</nameOnNuzzleChance><manhunterOnTameFailChance>0</manhunterOnTameFailChance></race><tradeTags><li>AnimalExotic</li></tradeTags><comps><li Class="GiddyUpCore.CompProperties_Mount"><drawFront>true</drawFront></li></comps><comps><li Class="CompProperties_Shearable"><woolDef>ThrumboWool</woolDef><shearIntervalDays>60</shearIntervalDays><woolAmount>200</woolAmount></li><li Class="CompProperties_Milkable"><milkDef>ThrumboMilk</milkDef><milkIntervalDays>15</milkIntervalDays><milkAmount>5</milkAmount></li></comps></ThingDef>
+
+BodyDef MechanicalCentipede has BodyPartRecord of MechanicalCentipedeBodyFirstRing whose children have more coverage than 1.
+
+BodyDef Snail has BodyPartRecord of Snailhead whose children have more coverage than 1.
+
+Key binding conflict: MainTab_Factions and NextPawnMode are both bound to F9.
+
+d3d: failed to create 2D texture id=3801 w=4 h=125 mips=8 d3dfmt=21 [invalid call]
+Translation data for language English has 7 errors. Generate translation report for more info.
+
+Alien race successfully completed 144 patches with harmony.
+
+Patching
+
+[ColorCodedMoodBar] initialized
+
+DeepRim: Adding Harmony patch 
+
+ExpandedRoofing: generating dynamic defs
+
+Medical Tab :: Capacity ElectricalEfficiency does not have any bodyPartTags associated with it. This may be intentional.
+
+Medical Tab :: Capacity HeatVenting does not have any bodyPartTags associated with it. This may be intentional.
+
+Medical Tab :: Capacity CoolantPumping does not have any bodyPartTags associated with it. This may be intentional.
+
+Medical Tab :: Adding FertilitySource to the list of required capacities for Fertility.
+
+Medical Tab :: Tag CPSource is not associated with any pawnCapacity. This may be intentional.
+
+Medical Tab :: Tag HVSource is not associated with any pawnCapacity. This may be intentional.
+
+Medical Tab :: Tag EVKidney is not associated with any pawnCapacity. This may be intentional.
+
+Medical Tab :: Tag EVLiver is not associated with any pawnCapacity. This may be intentional.
+
+Medical Tab :: Tag HVPathway is not associated with any pawnCapacity. This may be intentional.
+
+PickUpAndHaul v0.1.0.4 welcomes you to RimWorld with pointless logspam.
+
+Dynamic patching Boolean <>m__0(Verse.Thing)
+
+RimFridge Harmony Patches:
+  Prefix:
+    CompTemperatureRuinable.DoTicks - Will return false if within a RimFridge
+    ReachabilityUtility.CanReach
+  Postfix:
+    GameComponentUtility.StartedNewGame
+    GameComponentUtility.LoadedGame
+
+Added recipes for burning books/scrolls successfully.
+
+[Bubbles v1.4] Initialized
+
+Path Avoid: Adding Harmony Postfix to PawnUtility.GetAvoidGrid()
+
+Targeting Modes :: JecsTools detected as active in load order. Patching...
+
+Questionable Ethics checking for compatibility...
+
+Checking for compatibility for: Alien Race Framework...
+
+Is OK.
+
+Checking for compatibility for: Death Rattle...
+
+No compatibility.
+
+Allow patch: RIMMSqol:ArchitectButtonFix[ArchitectButtonVisibility]
+Allow patch: RIMMSqol:DebugAction_RegenerateFactionLeaders[DebugMenuOptions]
+Allow patch: RIMMSqol:DefMapSaveStateFixRecordDef[DefMap]
+Allow patch: RIMMSqol:DefMapSaveStateFixWorkTypeDef[DefMap]
+Allow patch: RIMMSqol:LanguageChangeListener[LanguageChangeListener]
+Allow patch: RIMMSqol.pathfinding:PathfindingFix[Pathfinding]
+Allow patch: RIMMSqol.performance.pawn_rotationtracker:Pawn_RotationTracker_Face[PawnRotation]
+Allow patch: RIMMSqol.performance.pawn_rotationtracker:Pawn_RotationTracker_FaceCell[PawnRotation]
+Allow patch: RIMMSqol.performance.workgiver_dobill:WorkGiver_DoBill_TryFindBestBillIngredients[DoBillIngredientSearchRadius]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_WorldPawnGCTick[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_RunGC[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_LogDotgraph[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_PawnGCDebugResults[WorldPawnGC]
+Allow patch: RIMMSqol:PreventAnimalFamilies_Pawn_RelationsTracker_AddDirectRelation[PreventAnimalFamilies]
+Allow patch: RIMMSqol:PreventAnimalFamilies_TaleRecorder_RecordTale[PreventAnimalFamilies]
+Allow patch: RIMMSqol:PreventTamenessDecay_Pawn_TrainingTracker_Pawn_TrainingTracker[StopTamenessDecay]
+Allow patch: RIMMSqol:ReplaceNumericTextboxesInt[NumericTextboxes]
+Allow patch: RIMMSqol:ReplaceNumericTextboxesFloat[NumericTextboxes]
+Allow patch: RIMMSqol:SpawnRemnantColony[RemnantColony]
+Allow patch: RIMMSqol:DisplayConfirmationDialog[RemnantColony]
+Allow patch: RIMMSqol:ThingForbiddenPredicatesFix[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood1[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood2[ForbidByContext]
+Allow patch: RIMMSqol:TrackLevelUp[TrackLevelUp]
+Allow patch: RIMMSqol:StopSkillDecay[StopSkillDecay]
+Allow patch: RIMMSqol:WorkGiver_DoBill_TryFindBestBillIngredientsInSet_AllowMix[DoBillIngredientOverflow]
+
+
+Type HealthCardUtility_DrawHediffRow probably needs a StaticConstructorOnStartup attribute, because it has a field leakingIcon of type Texture2D. All assets must be loaded in the main thread.
+
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+(Filename:  Line: 376)
+
+Loading some snapshots...
+
+[ModMetaDataCleaner] Removed 19 Metadata and cleaned 129 PreviewImage.
+Removed: Zombieland, Tech Advancing, [T] MoreBedsCloth, [RF] Archipelagos [1.0], ProjectRimFactory, PhiClient, No Mood Loss on Prisoner Sold or Died, Mod Manager, Increased Stack, H.P. Lovecraft Storyteller - Remastered, Giddy-up! Caravan, GeneticRim Cosmic Horrors Patch, Faction Discovery, Color Coded Mood Bar, Call of Cthulhu - Straitjackets, Call of Cthulhu - Elder Things, Call of Cthulhu - Cults, Call of Cthulhu - Cosmic Horrors, Advanced Biomes
+Cleaned: [1.0] Sandy's Detailed RPG Inventory, Work Tab, Where is my weapon?, Wall Light, USCM - Xenomorphs Faction 1.0, USCM - Turret 1.0, USCM - Core 1.0, USCM - Colonial Marines Corps Faction 1.0, [KV] Trading Spot - 1.0, A RimWorld of Magic, Tilled Soil, [XND] Targeting Modes, [T] RawCropThoughts, [T] MoreFloors, [T] MoreBedsVanilla, [T] MiscStuff, [T] ExpandedCrops, [T] ExpandedCloth, Rimworld Search Agency, Sparkling Worlds - Full Mod, Simple sidearms, Save Our Ship (Reloaded), SF Grim Reality 1.0, [sd] advanced powergeneration, RuntimeGC, RunAndGun, RT Fuse, Misc. Robots++, RimWriter - Books, Scrolls, Tablets, and Libraries, Nature's Pretty Sweet, MendAndRecycle, Harvest Organs Post Mortem - 4.1 [1.0], Rimsenal - Storyteller pack, Rimsenal - Security pack, Rimsenal - Feral, Rimsenal - Federation, Rimsenal - Enhanced Vanilla Pack, Rimsenal, RIMMSqol, [KV] RimFridge - 1.0, Rimatomics, Rim of Madness - Vampires, Rim of Madness - Werewolves, [RF] Tribal Raiders [1.0], [RF] Scenarios [1.0], [RF] Rumor Has It.... [1.0], [RF] Fishing [1.0], ResearchPal, Replace Stuff, RenameColony, Real Ruins, Realistic Darkness 1.0, Quarry 1.0, QualityBuilder, Quantum Cooling, Psychology, Project RimFactory - Storage, Project RimFactory - Insanity, Project RimFactory - Drones, Project RimFactory - Core, PowerSwitch, Pick Up And Haul, [KV] Path Avoid - B19, P-Music, More Trade Ships, More Mechanoids, More Furniture [1.0], More Faction Interaction, Moody, Misc. Robots, MinifyEverything, Megafauna, Medical Tab, Mechanoids Extraordinaire, Sometimes Raids Go Wrong, Clear The Stockpiles, Locks, Labels on Floor, Numbers, JecsTools, Industrial Age - Objects and Furniture, Incidents, HugsLib, Hospitality, HolyWasher, Heat Map, Prisoner Harvesting, Hardworking animals B19, Greenworld, gloomy_hair, gloomy_face, GlitterWorld Prime [1.0], Giddy-up! Core, GeneticRim Dinosauria Patch, Genetic Rim, Furnace, [1.0] FuckFriendlyFire, Food Alert, Fences And Floors, [KV] Faction Control - 1.0, Expanded Roofing, Expanded Prosthetics and Organ Engineering, EdB Prepare Carefully, ED-LaserDrill-1.0_Update, Dinosauria, DeepRim, [TWC]Cupro's Alloys 1.0, Core, Color Coded Mood Bar, Colony Manager, Climate Cycle++, Cheaper Components, Rim of Madness - Arachnophobia, Buildable Terrain v1, Interaction Bubbles, Blueprints, The Birds and the Bees, BioReactor, Giddy-up! Battle Mounts, Bad People, [1.0] Android tiers, Alpha Animals, Allow Tool, Humanoid Alien Races 2.0, Thrumbo Extension, GloomyFurniture, Questionable Ethics, OgreStack, Simply More Bridges
+
+[LanguageDataCleaner] Removed 29 LoadedLanguages and cleaned 154 DefInjectionPackages.
+Removed Languages: Sample, SimplifiedChinese, KoreanFastChannel, Українська, Türkçe, Svenska, Español(Latinoamérica), Español(Castellano), Slovenčina, Русский, Română, Português Brasileiro, Português, Polski, Norsk Bokmål, 한국어, 日本語, Italiano, Magyar, Deutsch, Français, Suomi, Eesti, Nederlands, Dansk, Čeština, 繁體中文, 简体中文, Català
+
+[RuntimeGC] Detour completed: MuteGC
+
+ResearchPal :: Preparing research nodes
+
+ResearchPal :: 	redundant prerequisites for Advanced solar power: Electricity
+
+ResearchPal :: 	redundant prerequisites for Machine learning: Automation basics
+
+ResearchPal :: 	CAL_UtilityAlloys has a lower techlevel than (one of) it's prerequisites
+
+ResearchPal :: 	RimWriter_TechBookshelves has a lower techlevel than (one of) it's prerequisites
+
+ResearchPal :: 	MindAlteringTechSW has a lower techlevel than (one of) it's prerequisites
+
+ResearchPal :: 	PRFMachineLearning has a lower techlevel than (one of) it's prerequisites
+
+ResearchPal :: 	PRFStorageIO has a lower techlevel than (one of) it's prerequisites
+
+ResearchPal :: Reducing crossings
+
+ResearchPal :: Finalizing layout
+
+ResearchPal :: Restoring queue
+
+Got names list
+
+Loaded list of 1000 elements...
+
+Filtered down to list of 621 elements...
+
+Shuffled...
+
+Loading 25 files...
+
+Loading snapshot 20181001-17044971450-jeluder.bp
+
+[OgreStack]: Modify Stack Sizes Complete
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+
+Injecting guest beds into the following facilities: EndTable, Dresser, VitalsMonitor, RGK_Dresser, RGK_EndTable, RGK_EndTableWithLamp, Anon2Dresser, Anon2EndTable, Anon2RoyalEndTable, Anon2EndTableLight, Anon2RoyalEndTableLight
+
+Created guest beds for the following beds: SleepingSpot, DoubleSleepingSpot, Bed, DoubleBed, RoyalBed, HospitalBed, Bedroll, BedrollDouble, RGK_bedSingle, RGK_bedSingleB, RGK_bedDouble, RGK_bedDoubleB, ROMV_SarcophagusBed, ROMV_SimpleCoffinBed, ROMV_RoyalCoffinBed, ROMV_RoyalCoffinDoubleBed, GlitterworldHospitalBedSW, PaddedSleepingSpot, BedRed, BedYellow, BedGreen, BedBlue, BedPurple, DoubleBedRed, DoubleBedYellow, DoubleBedGreen, DoubleBedBlue, DoubleBedPurple, RoyalBedRed, RoyalBedYellow, RoyalBedRedGreen, RoyalBedRedBlue, RoyalBedRedPurple
+
+[HugsLib] v6.0.1 initialized GiddyUpCore, AllowTool, HeatMap, LabelsOnFloor, MoreMechanoids, Psychology, Autopsy, RunAndGun, ShipInteriorMod, SimpleSidearms, ARimWorldOfMagic, MURWallLight, BattleMounts, Hospitality
+
+Exception during loading object: System.Exception: timed out
+  at RealRuins.AmazonS3Service+<>c__DisplayClass11_0.<AwaitUnityDataWebResponse>b__0 () [0x00000] in <filename unknown>:0 
+
+Loading snapshot 20181001-2409294820-jeluder.bp
+
+Loading snapshot 20181001-13444877220-jeluder.bp
+
+Loading snapshot 20181001-11851644970-jeluder.bp
+
+Loading snapshot 20181001-145343035316-jeluder.bp
+
+Loading snapshot 20181001-2956378450-jeluder.bp
+
+Loading snapshot 20181001-15170003110-jeluder.bp
+
+Loading snapshot 20181001-17141150070-jeluder.bp
+
+Loading snapshot 20181001-14911911820-jeluder.bp
+
+Loading snapshot 20181001-14962780120-jeluder.bp
+
+Loading snapshot 20181001-13920736780-jeluder.bp
+
+Loading snapshot 20181001-1384036941-jeluder.bp
+
+Loading snapshot 20181001-20231775120-jeluder.bp
+
+Loading snapshot 20181001-3129643530-jeluder.bp
+
+Loading snapshot 20181001-10197906750-jeluder.bp
+
+Loading snapshot 20181001-15999479350-jeluder.bp
+
+Loading snapshot 20181001-1305872291-jeluder.bp
+
+Loading snapshot 20181001-10659094360-jeluder.bp
+
+Loading snapshot 20181001-15260419830-jeluder.bp
+
+Loading snapshot 20181001-1179312200-jeluder.bp
+
+Loading snapshot 20181001-10722441080-jeluder.bp
+
+Loading snapshot 20181001-19614405626-jeluder.bp
+
+Loading snapshot 20181001-10292000310-jeluder.bp
+
+Loading snapshot 20181001-14557983420-jeluder.bp
+
+Loading snapshot 20181001-16417830310-jeluder.bp
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+QualityBuilder added property to '260' things
+
+
+Unloading 324 unused Assets to reduce memory usage. Loaded Objects now: 19368.
+Total: 274.223145 ms (FindLiveObjects: 0.942945 ms CreateObjectMapping: 0.972214 ms MarkObjects: 271.439270 ms  DeleteObjects: 0.867510 ms)
+
+Loading game from file Autosave-5 with mods Core, HugsLib, JecsTools, RuntimeGC, Giddy-up! Core, Humanoid Alien Races 2.0, USCM - Core 1.0, Rimsenal, Rimsenal - Enhanced Vanilla Pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Security pack, Rimsenal - Storyteller pack, Rimatomics, Simply More Bridges, GloomyFurniture, Allow Tool, [1.0] Android tiers, Bad People, The Birds and the Bees, Blueprints, Buildable Terrain v1, Rim of Madness - Arachnophobia, Cheaper Components, Climate Cycle++, Colony Manager, Color Coded Mood Bar, [TWC]Cupro's Alloys 1.0, DeepRim, EdB Prepare Carefully, Expanded Prosthetics and Organ Engineering, Expanded Roofing, [KV] Faction Control - 1.0, Food Alert, [1.0] FuckFriendlyFire, Furnace, Genetic Rim, Dinosauria, GeneticRim Dinosauria Patch, gloomy_face, gloomy_hair, Prisoner Harvesting, Heat Map, HolyWasher, Industrial Age - Objects and Furniture, Numbers, Labels on Floor, Locks, Clear The Stockpiles, Medical Tab, Moody, More Faction Interaction, More Furniture [1.0], More Mechanoids, More Trade Ships, P-Music, Pick Up And Haul, Psychology, QualityBuilder, Quarry 1.0, Realistic Darkness 1.0, Real Ruins, RenameColony, Replace Stuff, ResearchPal, [RF] Fishing [1.0], [RF] Rumor Has It.... [1.0], [RF] Scenarios [1.0], [RF] Tribal Raiders [1.0], Rim of Madness - Werewolves, Rim of Madness - Vampires, [KV] RimFridge - 1.0, Harvest Organs Post Mortem - 4.1 [1.0], MendAndRecycle, RimWriter - Books, Scrolls, Tablets, and Libraries, RT Fuse, RunAndGun, [sd] advanced powergeneration, Save Our Ship (Reloaded), Simple sidearms, Sparkling Worlds - Full Mod, [T] ExpandedCloth, [T] ExpandedCrops, [T] MiscStuff, [T] MoreBedsVanilla, [T] MoreFloors, [T] RawCropThoughts, A RimWorld of Magic, USCM - Colonial Marines Corps Faction 1.0, USCM - Turret 1.0, USCM - Xenomorphs Faction 1.0, Where is my weapon?, Work Tab, [1.0] Sandy's Detailed RPG Inventory, Fences And Floors, Hardworking animals B19, MinifyEverything, PowerSwitch, Wall Light, Interaction Bubbles, GlitterWorld Prime [1.0], [KV] Path Avoid - B19, OgreStack, Tilled Soil, Quantum Cooling, Rimworld Search Agency, BioReactor, [XND] Targeting Modes, [KV] Trading Spot - 1.0, SF Grim Reality 1.0, Project RimFactory - Core, Project RimFactory - Drones, Project RimFactory - Insanity, Project RimFactory - Storage, Mechanoids Extraordinaire, Megafauna, Giddy-up! Battle Mounts, Questionable Ethics, Thrumbo Extension, Sometimes Raids Go Wrong, Misc. Robots, Misc. Robots++, RIMMSqol, ED-LaserDrill-1.0_Update, Hospitality, Alpha Animals, Greenworld, Incidents, Nature's Pretty Sweet
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Initalising...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Enumerating supported Things...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Using Colony ID: 
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Initalising...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Enumerating supported Things...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Using Colony ID: 
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime saving/loading Colony Metadata
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime (Save/Load) now using Colony ID: 71fce4bbccc4e60299385fe74f43a611e4d7ae83
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Initalising...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Enumerating supported Things...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Using Colony ID: 
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Initalising...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Enumerating supported Things...
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.Initialise -> GlitterWorld Prime (Init) Using Colony ID: 
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime saving/loading Colony Metadata
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime (Save/Load) now using Colony ID: 
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime saving/loading Colony Metadata
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime (Save/Load) now using Colony ID: 71fce4bbccc4e60299385fe74f43a611e4d7ae83
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime saving/loading Colony Metadata
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime (Save/Load) now using Colony ID: 
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime saving/loading Colony Metadata
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime (Save/Load) now using Colony ID: 71fce4bbccc4e60299385fe74f43a611e4d7ae83
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime saving/loading Colony Metadata
+
+GlitterWorld Prime -> GlitterWorld_MapComponent.ExposeData -> GlitterWorld Prime (Save/Load) now using Colony ID: 
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Aerofleet/AA_Aerofleet_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_BoulderMit/AA_BoulderMit_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Aerofleet/AA_Aerofleet_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Blizzarisk/AA_Blizzarisk_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_BoulderMit/AA_BoulderMit_SkinSet.xml
+
+Trying to get valid region at (203, 0, 163) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+
+Two power nets on the same cell (274, 143). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (280, 149). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (277, 143). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (280, 146). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (283, 149). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (280, 143). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (283, 146). First transmitters: Power conduit and Power conduit.
+
+Two power nets on the same cell (283, 143). First transmitters: Power conduit and Power conduit.
+
+Before market value edit:480
+
+WealthWatcher recount in game mode MapInitializing
+
+Connected map wealth added to ground colony wealth. 0
+
+After market value edit:480
+
+Before market value edit:480
+
+WealthWatcher recount in game mode MapInitializing
+
+Connected map wealth added to ground colony wealth. 0
+
+After market value edit:480
+
+RandomElementByWeight with totalWeight=0 - use TryRandomElementByWeight.
+
+System.NullReferenceException: Object reference not set to an instance of an object
+at Verse.ThingMaker.MakeThing (Verse.ThingDef,Verse.ThingDef) <0x00180>
+at TKKN_NPS.SpringComp.genPlants (Verse.IntVec3,Verse.Map,System.Collections.Generic.List`1<Verse.ThingDef>) <0x0022e>
+at TKKN_NPS.SpringComp.fillBorder () <0x001b2>
+at TKKN_NPS.SpringComp.PostSpawnSetup (bool) <0x002ed>
+at Verse.ThingWithComps.SpawnSetup (Verse.Map,bool) <0x0007f>
+at TKKN_NPS.Spring.SpawnSetup (Verse.Map,bool) <0x0002d>
+at (wrapper dynamic-method) Verse.GenSpawn.Spawn_Patch2 (Verse.Thing,Verse.IntVec3,Verse.Map,Verse.Rot4,Verse.WipeMode,bool) <0x00b8b>
+at Verse.GenSpawn.Spawn (Verse.Thing,Verse.IntVec3,Verse.Map,Verse.WipeMode) <0x00069>
+at TKKN_NPS.Watcher.spawnSpecialElements (Verse.IntVec3) <0x0068c>
+at TKKN_NPS.Watcher.rebuildCellLists () <0x00c73>
+at TKKN_NPS.Watcher.FinalizeInit () <0x00063>
+at Verse.MapComponentUtility.FinalizeInit (Verse.Map) <0x00075>
+
+
+[AllowTool] Injected 6 designators
+
+QualityBuilder added to orders category.
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Aerofleet/AA_Aerofleet_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_BoulderMit/AA_BoulderMit_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Aerofleet/AA_Aerofleet_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Blizzarisk/AA_Blizzarisk_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_BoulderMit/AA_BoulderMit_SkinSet.xml
+
+Arachnophobia :: Spider Biome Settings Adjusted :: Current Factor: 1
+
+GlitterWorld Prime -> GlitterWorldApi.CheckIsOnlineAsync -> Getting Server Status Async
+
+Updating seasonal settings
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Aerofleet/AA_Aerofleet_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_BoulderMit/AA_BoulderMit_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Aerofleet/AA_Aerofleet_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_Blizzarisk/AA_Blizzarisk_SkinSet.xml
+
+[AnimalVariations] Loading XML data from: [Rimworld_dir]\Mods\AlphaAnimals-1.08/Textures/Things/Pawn/Animal/AA_BoulderMit/AA_BoulderMit_SkinSet.xml
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34014.
+Total: 498.429749 ms (FindLiveObjects: 2.282683 ms CreateObjectMapping: 3.463100 ms MarkObjects: 492.601288 ms  DeleteObjects: 0.081772 ms)
+
+Before market value edit:480
+
+Connected map wealth added to ground colony wealth. 0
+
+After market value edit:480
+
+Before market value edit:480
+
+Connected map wealth added to ground colony wealth. 0
+
+After market value edit:480
+
+Moody settings saved
+
+GlitterWorld Prime -> GlitterWorldApi.CheckResponseForErrors -> HTTP Status: OK
+
+GlitterWorld Prime -> GlitterWorldOrderTracker.CheckIsOnlineCompleteCallback -> Market is OK, checking for orders.
+
+GlitterWorld Prime -> GlitterWorldApi.GetOrdersAsync -> Begin list of placed orders
+
+GlitterWorld Prime -> GlitterWorldOrderTracker.GetOrdersCompleteCallback -> Finished getting list of placed orders
+
+GlitterWorld Prime -> GlitterWorldApi.CheckResponseForErrors -> HTTP Status: Forbidden
+
+GlitterWorld Prime -> GlitterWorldApi.CheckResponseForErrors -> Data={ }        Request={ }     ContentType=text/html; charset=utf-8    ContentLength=9         ContentEncoding=        Content=Forbidden       StatusCode=Forbidden    StatusDescription=FORBIDDEN     RawBytes=...    ResponseUri={ }         Server=nginx/1.10.3 (Ubuntu)    Cookies=...     Headers=...     ResponseStatus=Error    ErrorMessage=Text node cannot appear in this state.  Line 1, position 1.        ErrorException={ }
+
+
+GlitterWorld Prime -> GlitterWorldOrderTracker.GetOrdersCompleteCallback -> Finished getting list of placed orders
+
+GlitterWorld Prime -> GlitterWorldApi.CheckResponseForErrors -> HTTP Status: 0
+
+GlitterWorld Prime -> GlitterWorldApi.CheckResponseForErrors -> Data={ }        Request={ }     ContentType=null        ContentLength=0         ContentEncoding=null    Content=        StatusCode=0    StatusDescription=null  RawBytes=...    ResponseUri={ }         Server=null     Cookies=...     Headers=...     ResponseStatus=Error    ErrorMessage=Object reference not set to an instance of an object       ErrorException={ }
+
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Collections.Generic.List`1[Verse.IntVec3]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.doTides () [0x00000] in <filename unknown>:0 
+  at TKKN_NPS.Watcher.MapComponentTick () [0x00000] in <filename unknown>:0 
+  at Verse.MapComponentUtility.MapComponentTick (Verse.Map map) [0x00000] in <filename unknown>:0 
+
